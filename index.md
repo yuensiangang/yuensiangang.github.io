@@ -34,7 +34,7 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 
 ## Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* Le Heron C., Kolling N., Plant O., Kienast A., Janska R., <b>Ang Y-S.</b>, Fallon S.J., Husain M., Matthew M.A.J. (2019). Dopamine and motivational state drive dynamics of human decision making. biorxiv. ([Article](https://github.com/yuensiangang/yuensiangang.github.io/blob/master/papers/Le_Heron_et_al_2019_biorxiv.pdf)) 
+* Le Heron C., Kolling N., Plant O., Kienast A., Janska R., <b>Ang Y-S.</b>, Fallon S.J., Husain M., Matthew M.A.J. (2019). Dopamine and motivational state drive dynamics of human decision making. biorxiv. ([Article](https://www.biorxiv.org/content/10.1101/709857v1)) 
 * Fallon S.J., Kienast A., Muhammed K., <b>Ang Y-S.</b>, Manohar S., Husain M. (2019).  Dopamine D2 receptor stimulation modulates the balance between ignoring and updating according to baseline working memory ability. Journal of Psychopharmacology (in press). 
 * <b>Ang Y-S.</b>, Pizzagalli D.A. (2019). Understanding Personal Control and the Brain Reward System for Psychopathology is Challenging but Important. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. ([Article](/papers/Ang_BP_CNNI19.pdf))
 * Boyle C.C., Dooley L.N., Kuhlman K.R., Haydon M.D., Nooteboom P., Robles T.F., <b>Ang Y-S.</b>, Pizzagalli D.A., Bower J.E. (2018). Inflammation and dimensions of reward processing. Psychoneuroendocrinology. ([Article](/papers/Boyle_PNE19.pdf)) (Editor's choice article for the issue) 
