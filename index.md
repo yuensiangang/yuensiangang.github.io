@@ -7,6 +7,8 @@ Unfortunately, the etiology and pathophysiology of depression remains unclear. M
 
 Using machine learning algorithms, my current work focuses on identifying neural and behavioral markers that – in combination with clinical and demographic characteristics – improves the diagnostic precision of depression and reliably predicts treatment outcome. I also develop new empirical tools and use computational modelling to understand how abnormalities in decision making may contribute to the profoundly disabling, yet difficult-to-treat symptom of motivational anhedonia in depression (or the loss of motivation in pursuing activities that were previously rewarding).
 
+Reach me at yang@mclean.harvard.edu if you have any questions regarding my research or are interested in collaborating!
+
 ## Education
 * 2018 -  present: &nbsp;&nbsp;&nbsp;                     Research Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford
@@ -43,3 +45,10 @@ Using machine learning algorithms, my current work focuses on identifying neural
 * Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. Scientific Reports. ([Article](/papers/Lockwood_Ang_Empathy_Apathy_2017.pdf))
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. PLoS One. ([Article](/papers/Ang_et_al_PLOS_One_2017.pdf))
 * <b>Ang Y-S.</b>, Manohar S., Apps M.A.J. (2015). Commentary: Noradrenaline and Dopamine Neurons in the Reward/Effort Trade-off: A Direct Electrophysiological Comparison in Behaving Monkeys. Frontiers in Behavioural Neuroscience. ([Article](/papers/Ang_et_al_2015_fbeh.pdf))
+
+## Collaborators
+* Roselinde Kaiser (University of Colorado Boulder)
+* Chloe Boyle (UCLA)
+* Alexis Whitton (University of Sydney)
+* Masud Husain (University of Oxford)
+* Steve Gelda (McLean Hospital)
