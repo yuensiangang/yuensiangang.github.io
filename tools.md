@@ -14,3 +14,7 @@ This task has demonstrated, for the first time, that dopamine (a key neurotransm
 
 If you are interested in using the option generation task for your own research, feel free to contact me at yang@mclean.harvard.edu   
 
+## Apathy Motivation Index
+The Apathy Motivation Index (AMI) ([Ang et al. 2017, PLoS One](/papers/Ang_et_al_PLOS_One_2017.pdf)) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into five different languages and is currently being used by 20+ groups around the world. 
+
+The AMI is freely available for use with appropriate citation.     
