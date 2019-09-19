@@ -12,5 +12,5 @@ The option generation task ([Ang et al. 2018, Current Biology](/papers/Ang_et_al
 
 This task has demonstrated, for the first time, that dopamine (a key neurotransmitter in the brain) plays a causal modulatory role in the process of option generation. We also found that the ability to generate options is associated with motivation levels. A major part of my research continues to investigate the neurochemical modulation of option generation. I am also exploring motivational deficits with this task in a wide range of neurological and psychiatric disorders.    
 
-If you are interested in using the option generation task for your own research, feel free to contact me here.  
+If you are interested in using the option generation task for your own research, feel free to contact me at yang@mclean.harvard.edu   
 
