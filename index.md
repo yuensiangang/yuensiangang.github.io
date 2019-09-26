@@ -47,8 +47,8 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 * <b>Ang Y-S.</b>, Manohar S., Apps M.A.J. (2015). Commentary: Noradrenaline and Dopamine Neurons in the Reward/Effort Trade-off: A Direct Electrophysiological Comparison in Behaving Monkeys. Frontiers in Behavioural Neuroscience. ([Article](https://www.frontiersin.org/articles/10.3389/fnbeh.2015.00310/full))
 
 ## Collaborators
-* Roselinde Kaiser (University of Colorado Boulder)
-* Chloe Boyle (UCLA)
-* Alexis Whitton (University of Sydney)
-* Masud Husain (University of Oxford)
-* Steve Gelda (McLean Hospital)
+* Roselinde Kaiser, PhD (University of Colorado Boulder)
+* Chloe Boyle, PhD (UCLA)
+* Alexis Whitton, PhD (University of Sydney)
+* Masud Husain, DPhil (University of Oxford)
+* Steve Gelda, MD (McLean Hospital)
