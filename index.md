@@ -10,8 +10,8 @@ Using machine learning algorithms, my current work focuses on identifying neural
 Reach me at yang@mclean.harvard.edu if you have any questions regarding my research or are interested in collaborating!
 
 ## Education
-* 2018 -  present: &nbsp;&nbsp;&nbsp;                    Research Fellow, Harvard Medical School (Advisor: Diego Pizzagalli, PhD)
-* 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford
+* 2018 -  present: &nbsp;&nbsp;&nbsp;                    Research Fellow, Harvard Medical School (Advisor: Prof Diego Pizzagalli)
+* 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford (Advisor: Prof Masud Husain)
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
 
 ## Awards
