@@ -10,8 +10,8 @@ Using machine learning algorithms, my current work focuses on identifying neural
 Reach me at yang@mclean.harvard.edu if you have any questions regarding my research or are interested in collaborating!
 
 ## Education
-* 2018 -  present: &nbsp;&nbsp;&nbsp;                    Research Fellow, Harvard Medical School (Advisor: Prof Diego Pizzagalli)
-* 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford (Advisor: Prof Masud Husain)
+* 2018 -  present: &nbsp;&nbsp;&nbsp;                    Research Fellow, Harvard Medical School 
+* 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
 
 ## Awards
@@ -47,6 +47,7 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 * <b>Ang Y-S.</b>, Manohar S., Apps M.A.J. (2015). Commentary: Noradrenaline and Dopamine Neurons in the Reward/Effort Trade-off: A Direct Electrophysiological Comparison in Behaving Monkeys. Frontiers in Behavioural Neuroscience. ([Article](https://www.frontiersin.org/articles/10.3389/fnbeh.2015.00310/full))
 
 ## Collaborators
+* Diego Pizzagalli, PhD (Advisor, McLean Hospital, Harvard Medical School)
 * Roselinde Kaiser, PhD (University of Colorado Boulder)
 * Chloe Boyle, PhD (University of California, Los Angeles)
 * Alexis Whitton, PhD (University of Sydney)
