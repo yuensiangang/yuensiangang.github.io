@@ -51,6 +51,7 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 * Roselinde Kaiser, PhD (University of Colorado Boulder)
 * Chloe Boyle, PhD (University of California, Los Angeles)
 * Alexis Whitton, PhD (University of Sydney)
-* Masud Husain, MA DPhil BMBCh FRCP FMedSci FAAN FEAN (University of Oxford)
+* Masud Husain, MA DPhil BMBCh FRCP FMedSci FAAN FEAN (Former advisor, University of Oxford)
 * Steve Gelda, MD (McLean Hospital, Harvard Medical School)
 * Augustin G. Yip, MD PhD (McLean Hospital, Harvard Medical School)
+* Courtney Beard, PhD (McLean Hospital, Harvard Medical School)
