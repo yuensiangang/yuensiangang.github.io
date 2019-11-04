@@ -59,7 +59,7 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 * Prof. Gerard Bruder (Columbia University)
 
 ## Students
-* Praveen Suthaharan (Emory University, GA): Computational modelling with EM Laplace Approximation 
+* Praveen Suthaharan (Emory University, GA): Modelling behavior with EM Laplace Approximation 
 * Julia Waszak (Union College, NY): Probing motivation with a novel behavioral paradigm
 * Nicole Frontero (Amherst College, MA): Analysis of the ABCD dataset
 * Cindy J Pang (UNC Chapel Hill, UC): Implicit reinforcement learning in mental disorders
