@@ -33,9 +33,9 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 * 2010: Dean's List, Nanyang Technological University
 
 ## Publications
-[Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 #### Selected papers:
+[Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 * <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., Kienast A., Le Heron C., Muhammed K., Hu M., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))
 * Le Heron C., Plant O., Manohar S., <b>Ang Y-S.</b>, Jackson M., Lennox G., Husain M. (2018). Distinct effects of dopamine and apathy on effort based decision making in Parkinson's disease. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article/141/5/1455/4974326))
 * <b>Ang Y-S.</b>, Lockwood P., Kienast A., Plant O., Drew D., Slavkova E., Tamm M., Husain M. (2018). Differential impact of behavioural, social and emotional apathy on Parkinson’s disease. <i>Annals of Clinical and Translational Neurology</i>. ([Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.626))
