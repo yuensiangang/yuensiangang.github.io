@@ -33,8 +33,7 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 * 2010: Dean's List, Nanyang Technological University
 
 ## Publications
-
-#### Selected papers:
+Selected papers:
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 * <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., Kienast A., Le Heron C., Muhammed K., Hu M., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))
 * Le Heron C., Plant O., Manohar S., <b>Ang Y-S.</b>, Jackson M., Lennox G., Husain M. (2018). Distinct effects of dopamine and apathy on effort based decision making in Parkinson's disease. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article/141/5/1455/4974326))
@@ -42,7 +41,7 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))
 * Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. <i>Scientific Reports</i>. ([Article](https://www.nature.com/articles/s41598-017-17415-w))
 
-#### Complete list of papers (excluding above):
+Complete list of papers (excluding above):
 * Le Heron C., Kolling N., Plant O., Kienast A., Janska R., <b>Ang Y-S.</b>, Fallon S.J., Husain M., Matthew M.A.J. (2019). Dopamine and motivational state drive dynamics of human decision making. <i>biorxiv</i>. ([Article](https://www.biorxiv.org/content/10.1101/709857v1)) 
 * Fallon S.J., Kienast A., Muhammed K., <b>Ang Y-S.</b>, Manohar S., Husain M. (2019). Dopamine D2 receptor stimulation modulates the balance between ignoring and updating according to baseline working memory ability. <i>Journal of Psychopharmacology</i>. ([Article](https://journals.sagepub.com/doi/full/10.1177/0269881119872190?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed)) 
 * <b>Ang Y-S.</b>, Pizzagalli D.A. (2019). Understanding Personal Control and the Brain Reward System for Psychopathology is Challenging but Important. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. ([Article](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(18)30326-4/fulltext))
