@@ -3,9 +3,9 @@
 ## My Research
 Depression is the leading cause of disability and poor health worldwide, with more than 300 million people suffering from the disorder globally. Unfortunately, the etiology and pathophysiology of depression remains unclear. Moreover, unlike all other branches of medicine, treatment often proceeds via trial-and-error and is highly ineffective. 
 
-My research aims to better understand the causes, improve diagnostic precision and enhance the treatment efficacy of depression, by:
-* Using machine learning algorithms in multimodal data analysis of demographic, clinical, behavioral and neural markers. The goals are to develop better classifications of depressive subtypes and identify reliable predictors of antidepressant treatment outcome.  
-* Using computational methods to model cognitive processes such as decision-making, reinforcement learning and creativity. The goal is to break down and precisely quantify components of cognition that can in turn be mapped onto the brain with pharmacological challenge and imaging techniques. Together, these will help us better understand how disruptions in behavior and cognition arise in disorders such as depression.   
+My research aims to understand the causes, improve diagnostic precision and enhance the treatment efficacy of depression. This is done by:
+* using machine learning algorithms in the analysis of multimodal data from demographic, clinical, behavioral and neuroimaging domains. The goals are to develop better classifications based upon the neurobiology of depression and to identify reliable treatment-specific predictors of response to antidepressants.  
+* using computational methods to model cognitive processes such as decision-making, reinforcement learning, motivation and creativity. The goal is to break down and precisely quantify components of cognition, which can in turn be mapped onto the brain with pharmacological challenge and imaging techniques. Together, these will help us understand how disruptions in behavior and cognition arise in disorders such as depression.   
 
 Reach me at yang@mclean.harvard.edu if you have any questions regarding my research or are interested in collaborating!
 
