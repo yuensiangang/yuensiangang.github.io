@@ -1,11 +1,11 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md)
 
 ## My Research
-Depression is a major public health issue involving significant personal, societal and economic costs. According to the WHO, it is the leading cause of disability and poor health worldwide, with more than 300 million people suffering from the disorder globally. In 2010, in the United States alone, depression was estimated to have cost $210 billion in lost productivity and clinical costs. 
+Depression is the leading cause of disability and poor health worldwide, with more than 300 million people suffering from the disorder globally. Unfortunately, the etiology and pathophysiology of depression remains unclear. Moreover, treatment – unlike other branches of medicine – often proceeds via trial and error and is highly ineffective. 
 
-Unfortunately, the etiology and pathophysiology of depression remains unclear. Moreover, standard treatments such as SSRI antidepressants are only fully effective for almost 30% of patients and it often takes multiple medication trials in combination with other therapeutic approaches to achieve even a modest response. The overall goal of my research is to improve diagnostic precision and enhance treatment efficacy of depression.
-
-Using machine learning algorithms, my current work focuses on identifying neural and behavioral markers that – in combination with clinical and demographic characteristics – improves the diagnostic precision of depression and reliably predicts treatment outcome. I also develop new empirical tools and use computational modelling to understand how abnormalities in decision making may contribute to the profoundly disabling, yet difficult-to-treat symptom of motivational anhedonia in depression (or the loss of motivation in pursuing activities that were previously rewarding).
+My research aims to better understand the causes, improve diagnostic precision and enhance the treatment efficacy of depression, by:
+* Using machine learning algorithms in multimodal data analysis of demographic, clinical, behavioral and neural markers. The goals are to develop better classifications of depressive subtypes and identify reliable predictors of antidepressant treatment outcome.  
+* Using computational methods to model cognitive processes such as decision-making, reinforcement learning and creativity. The goal is to break down and precisely quantify components of cognition that can in turn be mapped onto the brain with pharmacological challenge and imaging techniques. Together, these will help us better understand how disruptions in behavior and cognition arise in disorders such as depression.   
 
 Reach me at yang@mclean.harvard.edu if you have any questions regarding my research or are interested in collaborating!
 
