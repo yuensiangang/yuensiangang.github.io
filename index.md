@@ -1,7 +1,7 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md)
 
 ## My Research
-Depression is the leading cause of disability and poor health worldwide, with more than 300 million people suffering from the disorder globally. Unfortunately, the etiology and pathophysiology of depression remains unclear. Moreover, treatment – unlike other branches of medicine – often proceeds via trial and error and is highly ineffective. 
+Depression is the leading cause of disability and poor health worldwide, with more than 300 million people suffering from the disorder globally. Unfortunately, the etiology and pathophysiology of depression remains unclear. Moreover, unlike all other branches of medicine, treatment often proceeds via trial-and-error and is highly ineffective. 
 
 My research aims to better understand the causes, improve diagnostic precision and enhance the treatment efficacy of depression, by:
 * Using machine learning algorithms in multimodal data analysis of demographic, clinical, behavioral and neural markers. The goals are to develop better classifications of depressive subtypes and identify reliable predictors of antidepressant treatment outcome.  
