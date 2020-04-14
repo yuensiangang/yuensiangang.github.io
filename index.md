@@ -1,4 +1,4 @@
-[About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md)
+[About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 ## My Research
 Depression is the leading cause of disability and poor health worldwide, with more than 300 million people suffering from the disorder globally. Unfortunately, the etiology and pathophysiology of depression remains unclear. Moreover, unlike all other branches of medicine, treatment often proceeds via trial-and-error and is highly ineffective. 
