@@ -34,10 +34,14 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 
 ## Key Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* <b>Ang Y-S.</b>\*, Kaiser R., Deckersbach T., Almeida J., Phillips M.L., Chase H.W., Webb C.A., Parsey R., Fava M., McGrath P., Weissman M., Adams P., Deldin P., Oquendo M.A., McInnis M.G., Carmody T., Bruder G., Cooper C.M., Chin Fatt C.R., Trivedi M.H., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. (in press)
-* <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., Kienast A., Le Heron C., Muhammed K., Hu M., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))
-* <b>Ang Y-S.</b>, Lockwood P., Kienast A., Plant O., Drew D., Slavkova E., Tamm M., Husain M. (2018). Differential impact of behavioural, social and emotional apathy on Parkinson’s disease. <i>Annals of Clinical and Translational Neurology</i>. ([Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.626))
-* <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))
+* <b>Ang Y-S.</b>\*, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. (in press)  
+  
+* <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
+  
+* <b>Ang Y-S.</b>, Lockwood P., Kienast A., et al., Husain M. (2018). Differential impact of behavioural, social and emotional apathy on Parkinson’s disease. <i>Annals of Clinical and Translational Neurology</i>. ([Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.626))  
+  
+* <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
+  
 * Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. <i>Scientific Reports</i>. ([Article](https://www.nature.com/articles/s41598-017-17415-w))
 
 ## Collaborators
