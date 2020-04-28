@@ -2,10 +2,10 @@
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 * <b>Ang Y-S.</b>\*, Kaiser R., Deckersbach T., Almeida J., Phillips M.L., Chase H.W., Webb C.A., Parsey R., Fava M., McGrath P., Weissman M., Adams P., Deldin P., Oquendo M.A., McInnis M.G., Carmody T., Bruder G., Cooper C.M., Chin Fatt C.R., Trivedi M.H., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. (in press)  
+
+* Le Heron C., Kolling N., Plant O., Kienast A., Janska R., <b>Ang Y-S.</b>, Fallon S.J., Husain M., Matthew M.A.J. (2020). Dopamine and motivational state drive dynamics of human decision making. <i>Journal of Neuroscience</i>. (in press)  
   
-* Whitton A., Reinen J., Slifstein M., <b>Ang Y-S.</b>, McGrath J., Iosifescu D., Dargham A., Pizzagalli D., Schneier F. Baseline reward processing and ventrostriatal dopamine function is associated with pramiprexole response in depression. <i>Brain</i>. (in press)  
-  
-* Le Heron C., Kolling N., Plant O., Kienast A., Janska R., <b>Ang Y-S.</b>, Fallon S.J., Husain M., Matthew M.A.J. (2019). Dopamine and motivational state drive dynamics of human decision making. <i>biorxiv</i>. ([Article](https://www.biorxiv.org/content/10.1101/709857v1))  
+* Whitton A., Reinen J., Slifstein M., <b>Ang Y-S.</b>, McGrath J., Iosifescu D., Dargham A., Pizzagalli D., Schneier F. Baseline reward processing and ventrostriatal dopamine function is associated with pramiprexole response in depression. (2020). <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/2/701/5732977?redirectedFrom=fulltext)) 
   
 * Fallon S.J., Kienast A., Muhammed K., <b>Ang Y-S.</b>, Manohar S., Husain M. (2019). Dopamine D2 receptor stimulation modulates the balance between ignoring and updating according to baseline working memory ability. <i>Journal of Psychopharmacology</i>. ([Article](https://journals.sagepub.com/doi/full/10.1177/0269881119872190?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed))  
   
