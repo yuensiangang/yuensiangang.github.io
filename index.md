@@ -54,4 +54,5 @@ Reach me at yang@mclean.harvard.edu if you have any questions regarding my resea
 * Dr. Augustin G. Yip (McLean Hospital, Harvard Medical School)
 * Dr. Courtney Beard (McLean Hospital, Harvard Medical School)
 * Prof. Gerard Bruder (Columbia University)
+* Dr. Toshikazu Kawagoe (Rikkyo University)
 
