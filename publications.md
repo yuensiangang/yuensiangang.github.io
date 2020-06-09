@@ -1,6 +1,8 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
+* Pizzagalli D.A., Smoski M., <b>Ang Y-S.</b>, Whitton A.E., Sanacora G., Mathew S.J., Nurnberger J., Lisanby S.H., Iosifescu D.V., Murrough J.W., Yang H., Weiner R.D., Calabrese J.R., Goodman W., Potter W.Z., Krystal A.D. (2020). Selective Kappa Opioid Antagonism Ameliorates Anhedonic Behavior: Evidence from the Fast-Fail Trial in Mood and Anxiety Spectrum Disorders. <i>Neuropsychopharmacology</i>. (in press) 
+
 * <b>Ang Y-S.</b>, Kaiser R., Deckersbach T., Almeida J., Phillips M.L., Chase H.W., Webb C.A., Parsey R., Fava M., McGrath P., Weissman M., Adams P., Deldin P., Oquendo M.A., McInnis M.G., Carmody T., Bruder G., Cooper C.M., Chin Fatt C.R., Trivedi M.H., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. (in press)  
 
 * Le Heron C., Kolling N., Plant O., Kienast A., Janska R., <b>Ang Y-S.</b>, Fallon S.J., Husain M., Matthew M.A.J. (2020). Dopamine and motivational state drive dynamics of human decision making. <i>Journal of Neuroscience</i>. (in press)  
