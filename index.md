@@ -7,7 +7,7 @@ My research aims to understand the causes, improve diagnostic precision and enha
 * using machine learning algorithms in the analysis of multimodal data from demographic, clinical, behavioral and neuroimaging domains. The goals are to develop better classifications based upon the neurobiology of depression and to identify reliable treatment-specific predictors of response to antidepressants.  
 * using computational methods to model cognitive processes such as decision-making, reinforcement learning, motivation and creativity. The goal is to break down and precisely quantify components of cognition, which can in turn be mapped onto the brain with pharmacological challenge and imaging techniques. Together, these will help us understand how disruptions in behavior and cognition arise in disorders such as depression.   
 
-Reach me at yang@mclean.harvard.edu if you have any questions regarding my research or are interested in collaborating!
+Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating!
 
 ## Education
 * 2018 - present: &nbsp;&nbsp;    Postdoctoral Research Fellow, Harvard Medical School
