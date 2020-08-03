@@ -34,7 +34,9 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 ## Key Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* <b>Ang Y-S.</b>\*, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. (in press)  
+* <b>Ang Y-S.</b>\, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (in press)
+
+* <b>Ang Y-S.</b>\, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
   
 * <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
   
