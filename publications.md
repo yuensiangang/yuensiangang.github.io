@@ -1,11 +1,13 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
+* <b>Ang Y-S.</b>\, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (in press)
+
 * Pizzagalli D.A., Smoski M., <b>Ang Y-S.</b>, Whitton A.E., Sanacora G., Mathew S.J., Nurnberger J., Lisanby S.H., Iosifescu D.V., Murrough J.W., Yang H., Weiner R.D., Calabrese J.R., Goodman W., Potter W.Z., Krystal A.D. (2020). Selective Kappa Opioid Antagonism Ameliorates Anhedonic Behavior: Evidence from the Fast-Fail Trial in Mood and Anxiety Spectrum Disorders. <i>Neuropsychopharmacology</i>. (in press) 
 
-* <b>Ang Y-S.</b>, Kaiser R., Deckersbach T., Almeida J., Phillips M.L., Chase H.W., Webb C.A., Parsey R., Fava M., McGrath P., Weissman M., Adams P., Deldin P., Oquendo M.A., McInnis M.G., Carmody T., Bruder G., Cooper C.M., Chin Fatt C.R., Trivedi M.H., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. (in press)  
+* <b>Ang Y-S.</b>, Kaiser R., Deckersbach T., Almeida J., Phillips M.L., Chase H.W., Webb C.A., Parsey R., Fava M., McGrath P., Weissman M., Adams P., Deldin P., Oquendo M.A., McInnis M.G., Carmody T., Bruder G., Cooper C.M., Chin Fatt C.R., Trivedi M.H., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X)) 
 
-* Le Heron C., Kolling N., Plant O., Kienast A., Janska R., <b>Ang Y-S.</b>, Fallon S.J., Husain M., Matthew M.A.J. (2020). Dopamine and motivational state drive dynamics of human decision making. <i>Journal of Neuroscience</i>. (in press)  
+* Le Heron C., Kolling N., Plant O., Kienast A., Janska R., <b>Ang Y-S.</b>, Fallon S.J., Husain M., Matthew M.A.J. (2020). Dopamine and motivational state drive dynamics of human decision making. <i>Journal of Neuroscience</i>. ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7329313/))   
   
 * Whitton A., Reinen J., Slifstein M., <b>Ang Y-S.</b>, McGrath J., Iosifescu D., Dargham A., Pizzagalli D., Schneier F. (2020). Baseline reward processing and ventrostriatal dopamine function is associated with pramiprexole response in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/2/701/5732977?redirectedFrom=fulltext)) 
   
