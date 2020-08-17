@@ -9,8 +9,9 @@ My research aims to understand the causes, improve diagnostic precision and enha
 
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating!
 
-## Education
-* 2018 - present: &nbsp;&nbsp;    Postdoctoral Research Fellow, Harvard Medical School
+## Education/Experience
+* 2020 -     : &nbsp;&nbsp;    Scientist 1, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
+* 2018 - 2020: &nbsp;&nbsp;    Postdoctoral Research Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
 
@@ -34,17 +35,17 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 ## Key Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (in press)
+* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (IF: 11.3) (in press)
 
-* <b>Ang Y-S.</b>, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
+* <b>Ang Y-S.</b>, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. (IF: 11.5) ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
   
-* <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
+* <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. (IF: 9.6) ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
   
-* <b>Ang Y-S.</b>, Lockwood P., Kienast A., et al., Husain M. (2018). Differential impact of behavioural, social and emotional apathy on Parkinson’s disease. <i>Annals of Clinical and Translational Neurology</i>. ([Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.626))  
+* <b>Ang Y-S.</b>, Lockwood P., Kienast A., et al., Husain M. (2018). Differential impact of behavioural, social and emotional apathy on Parkinson’s disease. <i>Annals of Clinical and Translational Neurology</i>. (IF: 4.9) ([Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.626))  
   
-* <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
+* <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. (IF: 2.7, Cited 57 times) ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
   
-* Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. <i>Scientific Reports</i>. ([Article](https://www.nature.com/articles/s41598-017-17415-w))
+* Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. <i>Scientific Reports</i>. (IF: 4.0) ([Article](https://www.nature.com/articles/s41598-017-17415-w))
 
 ## Collaborators
 * Prof. Diego Pizzagalli (Advisor, McLean Hospital, Harvard Medical School)
