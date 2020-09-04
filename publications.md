@@ -1,6 +1,8 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
+* Belleau EL, Kremens R, <b>Ang Y-S</b>, Pisoni A, Bondy E, Auerbach RP, Pizzagalli DA (2020). Reward Functioning Abnormalities in Adolescents at High Familial Risk for Major Depressive Disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (IF: 5.3) (in press)
+
 * <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (IF: 11.3) (in press)
 
 * Pizzagalli D.A., Smoski M., <b>Ang Y-S.</b>, Whitton A.E., Sanacora G., Mathew S.J., Nurnberger J., Lisanby S.H., Iosifescu D.V., Murrough J.W., Yang H., Weiner R.D., Calabrese J.R., Goodman W., Potter W.Z., Krystal A.D. (2020). Selective Kappa Opioid Antagonism Ameliorates Anhedonic Behavior: Evidence from the Fast-Fail Trial in Mood and Anxiety Spectrum Disorders. <i>Neuropsychopharmacology</i>. (IF: 6.8) (in press) 
