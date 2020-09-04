@@ -1,7 +1,7 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* Belleau EL, Kremens R, <b>Ang Y-S</b>, Pisoni A, Bondy E, Auerbach RP, Pizzagalli DA (2020). Reward Functioning Abnormalities in Adolescents at High Familial Risk for Major Depressive Disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (IF: 5.3) (in press)
+* Belleau EL, Kremens R, <b>Ang Y-S.</b>, Pisoni A, Bondy E, Auerbach RP, Pizzagalli DA (2020). Reward Functioning Abnormalities in Adolescents at High Familial Risk for Major Depressive Disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (IF: 5.3) (in press)
 
 * <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (IF: 11.3) (in press)
 
