@@ -16,7 +16,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
 
 ## Grants
-* 2020: NARSAD Young Investigator, Brain and Behavior Foundation
+* 2020: NARSAD Young Investigator Grant, Brain and Behavior Foundation
 * 2019: Kaplen Fellowship, Harvard Medical School 
 * 2019: Livingston Award, Harvard Medical School
 * 2018: Dorris Family Pilot Translational Research Award, McLean Hospital, Harvard Medical School
