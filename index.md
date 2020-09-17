@@ -19,7 +19,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * 2020: NARSAD Young Investigator Grant, Brain and Behavior Foundation
 * 2019: Kaplen Fellowship, Harvard Medical School 
 * 2019: Livingston Award, Harvard Medical School
-* 2018: Dorris Family Pilot Translational Research Award, McLean Hospital, Harvard Medical School
+* 2018: Dorris Family Pilot Translational Research Award, McLean Hospital
 
 ## Awards
 * 2018: Letter of Commendation for Excellent D.Phil. Thesis, University of Oxford
