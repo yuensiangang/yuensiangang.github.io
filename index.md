@@ -16,7 +16,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
 
 ## Grants
-* 2020: NARSAD Young Investigator Grant, Brain and Behavior Foundation
+* 2020: NARSAD Young Investigator Grant, Brain and Behavior Research Foundation
 * 2019: Kaplen Fellowship, Harvard Medical School 
 * 2019: Livingston Award, Harvard Medical School
 * 2018: Dorris Family Pilot Translational Research Award, McLean Hospital
@@ -40,7 +40,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 * <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (IF: 11.3) (in press)
 
-* <b>Ang Y-S.</b>, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i>. (IF: 12.1) ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
+* <b>Ang Y-S.</b>, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i> (Editor's Choice).  (IF: 12.1) ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
   
 * <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. (IF: 9.6) ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
   
