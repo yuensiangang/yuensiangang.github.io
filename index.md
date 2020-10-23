@@ -16,7 +16,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
 
 ## Grants
-* 2020: NARSAD Young Investigator Grant, Brain and Behavior Research Foundation
+* 2020: NARSAD Young Investigator Award, Brain and Behavior Research Foundation
 * 2019: Kaplen Fellowship, Harvard Medical School 
 * 2019: Livingston Award, Harvard Medical School
 * 2018: Dorris Family Pilot Translational Research Award, McLean Hospital
@@ -62,4 +62,5 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * Dr. Emily Belleau (McLean Hospital, Harvard Medical School)
 * Prof. Gerard Bruder (Columbia University)
 * Dr. Toshikazu Kawagoe (Rikkyo University)
+
 
