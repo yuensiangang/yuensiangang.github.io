@@ -43,6 +43,8 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * <b>Ang Y-S.</b>, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i> (Editor's Choice).  (IF: 12.1) ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
   
 * <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. (IF: 9.6) ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
+
+* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. (2020). An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. (IF: 5.6) (in press)
   
 * <b>Ang Y-S.</b>, Lockwood P., Kienast A., et al., Husain M. (2018). Differential impact of behavioural, social and emotional apathy on Parkinson’s disease. <i>Annals of Clinical and Translational Neurology</i>. (IF: 4.9) ([Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.626))  
   
