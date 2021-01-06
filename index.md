@@ -55,11 +55,11 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. <i>Scientific Reports</i>. (IF: 4.0) ([Article](https://www.nature.com/articles/s41598-017-17415-w))
 
 ## Collaborators
-* Prof. Diego Pizzagalli (Advisor, McLean Hospital, Harvard Medical School)
+* Prof. Diego Pizzagalli (McLean Hospital, Harvard Medical School)
 * Dr. Roselinde Kaiser (University of Colorado Boulder)
 * Dr. Chloe Boyle (University of California, Los Angeles)
 * Dr. Alexis Whitton (University of Sydney)
-* Prof. Masud Husain (Former advisor, University of Oxford)
+* Prof. Masud Husain (University of Oxford)
 * Dr. Steve Gelda (McLean Hospital, Harvard Medical School)
 * Dr. Augustin G. Yip (McLean Hospital, Harvard Medical School)
 * Dr. Courtney Beard (McLean Hospital, Harvard Medical School)
