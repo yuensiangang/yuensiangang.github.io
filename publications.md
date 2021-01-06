@@ -3,13 +3,13 @@
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 Accepted/In Press
-* <b>Ang Y-S.</b>, Pizzagalli D.A. (2020). Predictors of treatment outcome in adolescent depression. <i>Current Treatment Options in Psychiatry</i>. (in press)
+* <b>Ang Y-S.</b>, Pizzagalli D.A. Predictors of treatment outcome in adolescent depression. <i>Current Treatment Options in Psychiatry</i>. (in press)
 
-* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. (2020). An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. (IF: 5.6) (in press)
+* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. (IF: 5.6) (in press)
 
-* Belleau EL, Kremens R, <b>Ang Y-S.</b>, Pisoni A, Bondy E, Auerbach RP, Pizzagalli DA (2020). Reward Functioning Abnormalities in Adolescents at High Familial Risk for Major Depressive Disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (IF: 5.3) (in press)
+* Belleau E.L., Kremens R., <b>Ang Y-S.</b>, Pisoni A., Bondy E., Auerbach R.P., Pizzagalli D.A. Reward Functioning Abnormalities in Adolescents at High Familial Risk for Major Depressive Disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. (IF: 5.3) (in press)
 
-* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (IF: 11.3) (in press)
+* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. (IF: 11.3) (in press)
 
 2020
 * Pizzagalli D.A., Smoski M., <b>Ang Y-S.</b>, Whitton A.E., Sanacora G., Mathew S.J., Nurnberger J., Lisanby S.H., Iosifescu D.V., Murrough J.W., Yang H., Weiner R.D., Calabrese J.R., Goodman W., Potter W.Z., Krystal A.D. (2020). Selective Kappa Opioid Antagonism Ameliorates Anhedonic Behavior: Evidence from the Fast-Fail Trial in Mood and Anxiety Spectrum Disorders. <i>Neuropsychopharmacology</i>. (IF: 6.8) ([Article](https://www.nature.com/articles/s41386-020-0738-4)) 
