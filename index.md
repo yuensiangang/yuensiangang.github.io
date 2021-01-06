@@ -50,7 +50,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 * <b>Ang Y-S.</b>, Lockwood P., Kienast A., et al., Husain M. (2018). Differential impact of behavioural, social and emotional apathy on Parkinson’s disease. <i>Annals of Clinical and Translational Neurology</i>. (IF: 4.9) ([Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.626))  
   
-* <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. (IF: 2.7, Cited 57 times) ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
+* <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. (IF: 2.7) ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
   
 * Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. <i>Scientific Reports</i>. (IF: 4.0) ([Article](https://www.nature.com/articles/s41598-017-17415-w))
 
@@ -66,9 +66,11 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * Dr. Emily Belleau (McLean Hospital, Harvard Medical School)
 * Prof. Gerard Bruder (Columbia University)
 * Dr. Toshikazu Kawagoe (Rikkyo University)
-* Prof. Michael Meaney (Singapore Institute of Clinical Sciences, ASTAR)
+* Prof. Michael Meaney (Singapore Institute of Clinical Sciences, ASTAR Singapore)
 * Dr. Geoffrey Tan Chern-Yee (Institute of Mental Health, Singapore)
 * Dr. Cheryl Loh Bee Lock (Changi General Hospital, Singapore)
+* Dr. David Teo Choon Liang (Changi General Hospital, Singapore)
+* Dr. Glen-Roche Cedric Tze Lee (Changi General Hospital, Singapore)
 * Ms. Michelle Lauw Siu Min (Changi General Hospital, Singapore)
 
 
