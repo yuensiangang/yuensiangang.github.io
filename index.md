@@ -38,7 +38,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 ## Key Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. (IF: 11.3) (in press)
+* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. (IF: 11.3) ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))  
 
 * <b>Ang Y-S.</b>, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i> (Editor's Choice).  (IF: 12.1) ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
   
@@ -46,7 +46,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 * <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G. et al., Pizzagalli D.A. (2020). An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. (IF: 5.6) (in press)
   
-* <b>Ang Y-S.</b>, Pizzagalli D.A. (2020). Predictors of treatment outcome in adolescent depression. <i>Current Treatment Options in Psychiatry</i>. (in press)
+* <b>Ang Y-S.</b>, Pizzagalli D.A. (2021). Predictors of treatment outcome in adolescent depression. <i>Current Treatment Options in Psychiatry</i>. ([Article](https://link.springer.com/article/10.1007/s40501-020-00237-5))  
 
 * <b>Ang Y-S.</b>, Lockwood P., Kienast A., et al., Husain M. (2018). Differential impact of behavioural, social and emotional apathy on Parkinson’s disease. <i>Annals of Clinical and Translational Neurology</i>. (IF: 4.9) ([Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/acn3.626))  
   
