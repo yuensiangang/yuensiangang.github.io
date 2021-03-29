@@ -12,7 +12,14 @@ The option generation task (Ang et al. 2018, <i>Current Biology</i>) is a simple
 
 This task has demonstrated, for the first time, that dopamine (a key neurotransmitter in the brain) plays a causal modulatory role in the process of option generation. We also found that the ability to generate options is associated with motivation levels. A major part of my research continues to investigate the neurochemical modulation of option generation. I am also exploring motivational deficits with this task in a wide range of neurological and psychiatric disorders.    
 
-If you are interested in using the option generation task for your own research, feel free to contact me at yang@mclean.harvard.edu   
+If you are interested in using the option generation task for your own research, feel free to contact me at angys@ihpc.a-star.edu.sg   
+
+## Cognitive Motivation Task
+Deficits in motivation might also arise due to impairments in weighing the rewards and effort costs associated with goal-directed behavior. An apathetic person could be oversensitive to the effort required to perform an action, insensitive to the associated rewards or both. It is important to be able to disentangle these processes and be able to objectively quantify individual levels of motivation.
+
+The cognitive motivation task is a laboratory-based test to assess how willing an individual is to invest <i>cognitive</i> effort in pursuit of rewards. By applying mathematical algorithms to capture the way a person performs the task, we can index a person's cognitive motivation by a single number that can be compared with other people. In other words, we can say exactly how much more motivated or less motivated a person is relative to another. This task has been validated in the healthy population as well as patients with Major Depressive Disorder and the findings are currently under review for publication. 
+
+Details of the task will be shown after the paper is published, but if you are interested out to find out more in the meantime, feel free to contact me at angys@ihpc.a-star.edu.sg  
 
 ## Apathy Motivation Index
 The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. 
