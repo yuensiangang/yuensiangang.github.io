@@ -26,5 +26,7 @@ The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief 
 
 The AMI is freely available for use with appropriate citation. 
 
-## Computational Modeling of Bahavioral Tasks (CMBT) R Package
-There has been a growing interest among psychologists, psychiatrists and neuroscientists in applying computational modeling to behavioral data to understand animal and human behavior. Such approaches can be daunting for those without experience. Together with Praveen Suthaharan (a brilliant student of mine), we have developed an R package that allows users to apply computational modeling and parameter estimation of behavioral tasks via three techniques: Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP) and Expectation-Maximization with Laplace approximation (EML). A demonstratation of this tool can be found in Suthaharan et al. 2021 (<i>The Quantitative Methods for Psychology</i>). Details can be found here: https://rdrr.io/github/psuthaharan/bandit2arm/
+## Computational Modeling of Behavioral Tasks (CMBT) R Package
+There has been a growing interest among psychologists, psychiatrists and neuroscientists in applying computational modeling to behavioral data to understand animal and human behavior. Such approaches can be daunting for those without experience. 
+
+Together with Praveen Suthaharan (a brilliant student of mine), we have developed an R package that allows users to apply computational modeling and parameter estimation of behavioral tasks via three techniques: Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP) and Expectation-Maximization with Laplace approximation (EML). A demonstratation of this tool can be found in Suthaharan et al. 2021 (<i>The Quantitative Methods for Psychology</i>). Details and updates can be found at his github: https://rdrr.io/github/psuthaharan/bandit2arm/
