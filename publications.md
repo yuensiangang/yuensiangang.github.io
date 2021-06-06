@@ -3,6 +3,8 @@
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 Accepted/In Press
+* Suthaharan P., Corlett P., <b>Ang Y-S.</b> Computational modeling of behavioral tasks: An illustration on a classic reinforcement learning paradigm. <i>The Quantative Methods for Psychology</i>. (in press) 
+
 * <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. (in press)
 
 * Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Duda J.M., Fagioli S., Mennin D.S., Pizzagalli D.A., Ottaviani O. Perseverative Cognition in the Positive Valence Systems: An Experimental and Ecological Investigation. <i>Brain Sciences</i>. (in press) 
