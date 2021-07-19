@@ -10,6 +10,7 @@ My research aims to understand the causes, improve diagnostic precision and enha
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating!
 
 ## Education/Experience
+* 2021 - present: &nbsp;&nbsp;    Principal Investigator, Brain-Body Initiative, ASTAR, Singapore
 * 2020 - present: &nbsp;&nbsp;    Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
 * 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Postdoctoral Research Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
