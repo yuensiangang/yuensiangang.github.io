@@ -69,6 +69,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * Dr. Toshikazu Kawagoe (Rikkyo University)
 * Prof. Michael Meaney (Singapore Institute of Clinical Sciences, ASTAR Singapore)
 * Dr. Geoffrey Tan Chern-Yee (Institute of Mental Health, Singapore)
+* Dr. Jimmy Lee Chee Keong (Institute of Mental Health, Singapore)
 * Dr. Cheryl Loh Bee Lock (Changi General Hospital, Singapore)
 * Dr. David Teo Choon Liang (Changi General Hospital, Singapore)
 * Dr. Glen-Roche Cedric Tze Lee (Changi General Hospital, Singapore)
