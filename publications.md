@@ -3,19 +3,21 @@
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 Accepted/In Press
-* Suthaharan P., Corlett P., <b>Ang Y-S.</b> Computational modeling of behavioral tasks: An illustration on a classic reinforcement learning paradigm. <i>The Quantative Methods for Psychology</i>. (in press) 
+* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/exploration-of-baseline-and-early-changes-in-neurocognitive-characteristics-as-predictors-of-treatment-response-to-bupropion-sertraline-and-placebo-in-the-embarc-clinical-trial/0A70C043039B2ACDA22E1994CA79DE3A))
 
-* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. (in press)
-
-* Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Duda J.M., Fagioli S., Mennin D.S., Pizzagalli D.A., Ottaviani O. Perseverative Cognition in the Positive Valence Systems: An Experimental and Ecological Investigation. <i>Brain Sciences</i>. (in press) 
+* Klar V.S., <b>Ang Y-S.</b>, Lockwood P., Attaallah B., Dickson S., Drew D., Kienast A., Maio M.R., Plant O., Slavkova E., Toniolo S., Zambellas R., Irani S.R., Husain M. Assessment of apathy in neurological patients using the Apathy Motivation Index caregiver version. <i>Journal of Neuropsychology</i>. ([Article](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/jnp.12262))  
 
 2021
+* Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Duda J.M., Fagioli S., Mennin D.S., Pizzagalli D.A., Ottaviani O. Perseverative Cognition in the Positive Valence Systems: An Experimental and Ecological Investigation. <i>Brain Sciences</i>. ([Article](https://www.mdpi.com/2076-3425/11/5/585))  
+
+* Suthaharan P., Corlett P., <b>Ang Y-S.</b> Computational modeling of behavioral tasks: An illustration on a classic reinforcement learning paradigm. <i>The Quantative Methods for Psychology</i>. ([Article](https://www.researchgate.net/publication/352674147_Computational_modeling_of_behavioral_tasks_An_illustration_on_a_classic_reinforcement_learning_paradigm)) 
+
 * <b>Ang Y-S.</b>, Pizzagalli D.A. Predictors of treatment outcome in adolescent depression. <i>Current Treatment Options in Psychiatry</i>. (Invited review) ([Article](https://link.springer.com/article/10.1007/s40501-020-00237-5)) 
 
 * Belleau E.L., Kremens R., <b>Ang Y-S.</b>, Pisoni A., Bondy E., Auerbach R.P., Pizzagalli D.A. Reward Functioning Abnormalities in Adolescents at High Familial Risk for Major Depressive Disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. ([Article](https://www.sciencedirect.com/science/article/abs/pii/S2451902220302512)) 
 
 2020
-* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. Disentangling vulnerability, state and trait features of neurocognitive impairments in depression: Bayesian cross-sectional analysis of 9–10 year-old children in the Adolescent Brain Cognitive Development Study. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))
+* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))
 
 * Pizzagalli D.A., Smoski M., <b>Ang Y-S.</b>, Whitton A.E., Sanacora G., Mathew S.J., Nurnberger J., Lisanby S.H., Iosifescu D.V., Murrough J.W., Yang H., Weiner R.D., Calabrese J.R., Goodman W., Potter W.Z., Krystal A.D. (2020). Selective Kappa Opioid Antagonism Ameliorates Anhedonic Behavior: Evidence from the Fast-Fail Trial in Mood and Anxiety Spectrum Disorders. <i>Neuropsychopharmacology</i>. ([Article](https://www.nature.com/articles/s41386-020-0738-4)) 
 
