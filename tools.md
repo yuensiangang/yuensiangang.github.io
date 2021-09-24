@@ -22,11 +22,13 @@ The cognitive motivation task is a laboratory-based test to assess how willing a
 Details of the task will be shown after the paper is published, but if you are interested out to find out more in the meantime, feel free to contact me at angys@ihpc.a-star.edu.sg  
 
 ## Apathy Motivation Index
-The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task and the findings are currently udner review for publication. If you require a copy of the questionnaire, feel free to contact me at angys@ihpc.a-star.edu.sg
+The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task (Klar et al. 2021, <i>Journal of Neuropsychology</i>). 
 
-The AMI is freely available for use with appropriate citation. 
+If you require a copy of the questionnaire, feel free to contact me at angys@ihpc.a-star.edu.sg The AMI is freely available for use with appropriate citation. 
 
 ## Computational Modeling of Behavioral Tasks (CMBT) R Package
 There has been a growing interest among psychologists, psychiatrists and neuroscientists in applying computational modeling to behavioral data to understand animal and human behavior. Such approaches can be daunting for those without experience. 
 
-Together with Praveen Suthaharan (a brilliant student of mine), we have developed an R package that allows users to apply computational modeling and parameter estimation of behavioral tasks via three techniques: Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP) and Expectation-Maximization with Laplace approximation (EML). A demonstratation of this tool can be found in Suthaharan et al. 2021 (<i>The Quantitative Methods for Psychology</i>). Details and updates can be found at his github: https://rdrr.io/github/psuthaharan/bandit2arm/
+Together with Praveen Suthaharan (a brilliant student of mine), we have developed an R package that allows users to apply computational modeling and parameter estimation of behavioral tasks via three techniques: Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP) and Expectation-Maximization with Laplace approximation (EML). A demonstratation of this tool can be found in Suthaharan et al. 2021, <i>The Quantitative Methods for Psychology</i>. 
+
+Details and updates can be found at his github: https://rdrr.io/github/psuthaharan/bandit2arm/
