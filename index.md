@@ -16,13 +16,16 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
 
-## Grants
+## Ongoing Projects
+* Neural mechanisms underlying cognitive motivational anhedonia in health and depression
+* AI-based nationwide screening and prediction of adolescent mental health
+* Cognitive motivation in adolescent health and disease
+
+## Awards
 * 2020: NARSAD Young Investigator Award, Brain and Behavior Research Foundation
 * 2019: Kaplen Fellowship, Harvard Medical School 
 * 2019: Livingston Award, Harvard Medical School
 * 2018: Dorris Family Pilot Translational Research Award, McLean Hospital
-
-## Awards
 * 2018: Letter of Commendation for Excellent D.Phil. Thesis, University of Oxford
 * 2016: Best student research paper, 5th Annual International Conference on Cognitive and Behavioral Psychology, Singapore
 * 2015: 1st Prize, Poster competition, Oxford NDCN Annual Postgraduates Meeting
