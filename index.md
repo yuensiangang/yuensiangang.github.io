@@ -50,7 +50,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
   
 * <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O. et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
 
-* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G. et al., Pizzagalli D.A. (2020). An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. (in press)
+* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G. et al., Pizzagalli D.A. (in press). An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. 
 
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
 
