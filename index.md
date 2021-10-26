@@ -42,7 +42,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 ## Key Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* <b>Ang Y-S.</b>, Cusin C., Petibon Y. et al. (2021). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. (In Press).
+* <b>Ang Y-S.</b>, Cusin C., Petibon Y. et al. (in press). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. 
 
 * <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))  
 
