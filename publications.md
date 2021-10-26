@@ -3,6 +3,8 @@
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 Accepted/In Press
+* <b>Ang Y-S</b>, Cusin C., Petibon Y., Dillon D.G., Breiger M., Belleau E.L., Normandin M., Schroder H., Boyden S., Hayden E., Levine T., Jahan A., Meyer A.K., Kang, M-S. Brunner D., Gelda S.E., Hooker J., El Fakhri G., Fava M., Pizzagalli D.A. (in press). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>.
+
 * <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/exploration-of-baseline-and-early-changes-in-neurocognitive-characteristics-as-predictors-of-treatment-response-to-bupropion-sertraline-and-placebo-in-the-embarc-clinical-trial/0A70C043039B2ACDA22E1994CA79DE3A))
 
 * Klar V.S., <b>Ang Y-S.</b>, Lockwood P., Attaallah B., Dickson S., Drew D., Kienast A., Maio M.R., Plant O., Slavkova E., Toniolo S., Zambellas R., Irani S.R., Husain M. Assessment of apathy in neurological patients using the Apathy Motivation Index caregiver version. <i>Journal of Neuropsychology</i>. ([Article](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/jnp.12262))  
