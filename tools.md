@@ -10,7 +10,9 @@ The option generation task (Ang et al. 2018, <i>Current Biology</i>) is a simple
 <br>
 ![](/images/option-generation.png)
 
-This task has demonstrated, for the first time, that dopamine (a key neurotransmitter in the brain) plays a causal modulatory role in the process of option generation. We also found that the ability to generate options is associated with motivation levels (Ang et al. 2018, <i>Current Biology</i>. In a recent study, we found that option generation was affected in clinical depression and dopaminergic activity in the putamen of MDD patients may play a key role in the self-generation of options. Modafinil, a putative cognitive enhancer, was also found to influence option generation in healthy people by reducing the creativity of options produced (Ang et al., in press, <i>Brain</i>).     
+This task has demonstrated, for the first time, that dopamine (a key neurotransmitter in the brain) plays a causal modulatory role in the process of option generation. We also found that the ability to generate options is associated with motivation levels (Ang et al. 2018, <i>Current Biology</i>). 
+
+In another study, we found that option generation was affected in clinical depression and dopaminergic activity in the putamen of MDD patients may play a key role in the self-generation of options. Modafinil, a putative cognitive enhancer, was also found to influence option generation in healthy people by reducing the creativity of options produced (Ang et al., in press, <i>Brain</i>).     
 
 If you are interested in using the option generation task for your own research, feel free to contact me at angys@ihpc.a-star.edu.sg   
 
