@@ -6,7 +6,7 @@
 * <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
 
 * <b>Ang Y-S</b>, Cusin C., Petibon Y., Dillon D.G., Breiger M., Belleau E.L., Normandin M., Schroder H., Boyden S., Hayden E., Levine T., Jahan A., Meyer A.K., Kang, M-S. Brunner D., Gelda S.E., Hooker J., El Fakhri G., Fava M., Pizzagalli D.A. A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/145/5/1854/6527662?redirectedFrom=fulltext&login=false)) 
-* 
+
 * Klar V.S., <b>Ang Y-S.</b>, Lockwood P., Attaallah B., Dickson S., Drew D., Kienast A., Maio M.R., Plant O., Slavkova E., Toniolo S., Zambellas R., Irani S.R., Husain M. Assessment of apathy in neurological patients using the Apathy Motivation Index caregiver version. <i>Journal of Neuropsychology</i>. ([Article](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/jnp.12262)) 
 
 2021
