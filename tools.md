@@ -23,7 +23,7 @@ The cognitive motivation task is a laboratory-based test to assess how willing a
 <br>
 ![](/images/Figure_1.tif)
 
-This task is currently being applied to the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study to establish feasibility, utility and normative data in adolescents. If you are interested out to find out more in the meantime, feel free to contact me at angys@ihpc.a-star.edu.sg  
+A modified (simpler) version of this task is currently being applied to the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study to establish feasibility, utility and normative data in younger adolescents. If you are interested out to find out more in the meantime, feel free to contact me at angys@ihpc.a-star.edu.sg  
 
 ## Apathy Motivation Index
 The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task (Klar et al. 2021, <i>Journal of Neuropsychology</i>). 
