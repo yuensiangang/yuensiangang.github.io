@@ -21,6 +21,8 @@ Deficits in motivation might also arise due to impairments in weighing the rewar
 
 The cognitive motivation task is a laboratory-based test to assess how willing an individual is to invest <i>cognitive</i> effort in pursuit of rewards. By applying mathematical algorithms to capture the way a person performs the task, we can index a person's cognitive motivation by a single number that can be compared with other people. In other words, we can say exactly how much more motivated or less motivated a person is relative to another. This task has been validated in the healthy population as well as patients with Major Depressive Disorder and the findings are currently under review for publication. 
 
+![](/images/Figure_1.tif)
+
 Details of the task will be shown after the paper is published, but if you are interested out to find out more in the meantime, feel free to contact me at angys@ihpc.a-star.edu.sg  
 
 ## Apathy Motivation Index
