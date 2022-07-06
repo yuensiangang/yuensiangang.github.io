@@ -26,9 +26,9 @@ The cognitive motivation task is a laboratory-based test to assess how willing a
 A modified (simpler) version of this task is currently being applied to the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study to establish feasibility, utility and normative data in younger adolescents. If you are interested out to find out more in the meantime, feel free to contact me at angys@ihpc.a-star.edu.sg  
 
 ## Apathy Motivation Index
-The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task (Klar et al. 2021, <i>Journal of Neuropsychology</i>). 
+The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task (Klar et al. 2022, <i>Journal of Neuropsychology</i>). 
 
-If you require a copy of the questionnaire, feel free to contact me at angys@ihpc.a-star.edu.sg The AMI is freely available for use with appropriate citation. 
+The AMI is freely available for use with appropriate citation. If you require a copy of the questionnaire, feel free to contact me at angys@ihpc.a-star.edu.sg  
 
 ## Computational Modeling of Behavioral Tasks (CMBT) R Package
 There has been a growing interest among psychologists, psychiatrists and neuroscientists in applying computational modeling to behavioral data to understand animal and human behavior. Such approaches can be daunting for those without experience. 
