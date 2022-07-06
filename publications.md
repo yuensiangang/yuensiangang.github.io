@@ -2,14 +2,12 @@
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
-Accepted/In Press
-* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. (in press). Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>.
+2022
+* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
 
-* <b>Ang Y-S</b>, Cusin C., Petibon Y., Dillon D.G., Breiger M., Belleau E.L., Normandin M., Schroder H., Boyden S., Hayden E., Levine T., Jahan A., Meyer A.K., Kang, M-S. Brunner D., Gelda S.E., Hooker J., El Fakhri G., Fava M., Pizzagalli D.A. (in press). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>.
-
-* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/exploration-of-baseline-and-early-changes-in-neurocognitive-characteristics-as-predictors-of-treatment-response-to-bupropion-sertraline-and-placebo-in-the-embarc-clinical-trial/0A70C043039B2ACDA22E1994CA79DE3A))
-
-* Klar V.S., <b>Ang Y-S.</b>, Lockwood P., Attaallah B., Dickson S., Drew D., Kienast A., Maio M.R., Plant O., Slavkova E., Toniolo S., Zambellas R., Irani S.R., Husain M. Assessment of apathy in neurological patients using the Apathy Motivation Index caregiver version. <i>Journal of Neuropsychology</i>. ([Article](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/jnp.12262))  
+* <b>Ang Y-S</b>, Cusin C., Petibon Y., Dillon D.G., Breiger M., Belleau E.L., Normandin M., Schroder H., Boyden S., Hayden E., Levine T., Jahan A., Meyer A.K., Kang, M-S. Brunner D., Gelda S.E., Hooker J., El Fakhri G., Fava M., Pizzagalli D.A. A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/145/5/1854/6527662?redirectedFrom=fulltext&login=false)) 
+* 
+* Klar V.S., <b>Ang Y-S.</b>, Lockwood P., Attaallah B., Dickson S., Drew D., Kienast A., Maio M.R., Plant O., Slavkova E., Toniolo S., Zambellas R., Irani S.R., Husain M. Assessment of apathy in neurological patients using the Apathy Motivation Index caregiver version. <i>Journal of Neuropsychology</i>. ([Article](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/jnp.12262)) 
 
 2021
 * Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Duda J.M., Fagioli S., Mennin D.S., Pizzagalli D.A., Ottaviani O. Perseverative Cognition in the Positive Valence Systems: An Experimental and Ecological Investigation. <i>Brain Sciences</i>. ([Article](https://www.mdpi.com/2076-3425/11/5/585))  
@@ -22,6 +20,8 @@ Accepted/In Press
 
 2020
 * <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))
+
+* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/exploration-of-baseline-and-early-changes-in-neurocognitive-characteristics-as-predictors-of-treatment-response-to-bupropion-sertraline-and-placebo-in-the-embarc-clinical-trial/0A70C043039B2ACDA22E1994CA79DE3A))
 
 * Pizzagalli D.A., Smoski M., <b>Ang Y-S.</b>, Whitton A.E., Sanacora G., Mathew S.J., Nurnberger J., Lisanby S.H., Iosifescu D.V., Murrough J.W., Yang H., Weiner R.D., Calabrese J.R., Goodman W., Potter W.Z., Krystal A.D. (2020). Selective Kappa Opioid Antagonism Ameliorates Anhedonic Behavior: Evidence from the Fast-Fail Trial in Mood and Anxiety Spectrum Disorders. <i>Neuropsychopharmacology</i>. ([Article](https://www.nature.com/articles/s41386-020-0738-4)) 
 
