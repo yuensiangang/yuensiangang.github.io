@@ -43,9 +43,9 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 ## Key Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* <b>Ang Y-S.</b>, Cusin C., Petibon Y. et al. (in press). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. 
+* <b>Ang Y-S.</b>, Cusin C., Petibon Y. et al. (2022). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/145/5/1854/6527662?redirectedFrom=fulltext&login=false)) 
 
-* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. (in press). Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>.
+* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. (2022). Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
 
 * <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))  
 
