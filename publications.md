@@ -3,6 +3,8 @@
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 2022
+* Castellano P., Gigli V., Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Pizzagalli D.A., Ottaviani C. COVID-19 consequences on motivational functioning: an ecological investigation of the role of momentary gustative-olfactory sensitivity and tonic heart rate variability. <i>Neuroscience Applied</i>. ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9789470/)) 
+
 * <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
 
 * <b>Ang Y-S</b>, Cusin C., Petibon Y., Dillon D.G., Breiger M., Belleau E.L., Normandin M., Schroder H., Boyden S., Hayden E., Levine T., Jahan A., Meyer A.K., Kang, M-S. Brunner D., Gelda S.E., Hooker J., El Fakhri G., Fava M., Pizzagalli D.A. A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/145/5/1854/6527662?redirectedFrom=fulltext&login=false)) 
