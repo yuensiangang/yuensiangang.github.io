@@ -1,16 +1,14 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 ## My Research
-Depression is the leading cause of disability and poor health worldwide, with more than 300 million people suffering from the disorder globally. Unfortunately, the etiology and pathophysiology of depression remains unclear. Moreover, unlike all other branches of medicine, treatment often proceeds via trial-and-error and is highly ineffective. 
+My research focuses on brain mechanisms involved in cognitive processes such as decision-making and reinforcement learning. I study cognition in healthy people and investigate how disruptions in cognition arise in illnesses such as Major Depressive Disorder. 
 
-My research aims to understand the causes, improve diagnostic precision and enhance the treatment efficacy of depression. This is done by:
-* using machine learning algorithms in the analysis of multimodal data from demographic, clinical, behavioral and neuroimaging domains. The goals are to develop better classifications based upon the neurobiology of depression and to identify reliable treatment-specific predictors of response to antidepressants.  
-* using computational methods to model cognitive processes such as decision-making, reinforcement learning, motivation and creativity. The goal is to break down and precisely quantify components of cognition, which can in turn be mapped onto the brain with pharmacological challenge and imaging techniques. Together, these will help us understand how disruptions in behavior and cognition arise in disorders such as depression.   
-
+To do that, I have carefully designed laboratory-based computerized tests to specifically measure the cognitive process of interest in humans; and developed computational models that instantiated algorithmic hypotheses about how humans perform the test and can help better understand variability in human behaviour at the individual level. Precise mathematical algorithms were used to find parameter values that best capture each individual’s behavioral pattern during the computerized tests. These parameters were in turn mapped onto the brain with pharmacological challenge and brain imaging techniques, which will help us understand how disrupted cognition might arise in disease. 
+  
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating!
 
 ## Education/Experience
-* 2021 - present: &nbsp;&nbsp;    Principal Investigator, Brain-Body Initiative, ASTAR, Singapore
+* 2021 - present: &nbsp;&nbsp;    Investigator, Brain-Body Initiative, ASTAR, Singapore
 * 2020 - present: &nbsp;&nbsp;    Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
 * 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Postdoctoral Research Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
@@ -18,10 +16,11 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 ## Ongoing Projects
 * Neural mechanisms underlying cognitive motivational anhedonia in health and depression
-* AI-based nationwide screening and prediction of adolescent mental health
-* Cognitive motivation in adolescent health and disease
+* Multilevel investigation of mechanisms underlying stress and resilience
+* Option generation and cognitive effort-based decision-making in adolescent health and disease
 
-## Awards
+## Awards / Honours
+* 2023: Inspiring Mentor Award, National University of Singapore High School
 * 2022: Inspiring Mentor Award, National University of Singapore High School
 * 2020: NARSAD Young Investigator Award, Brain and Behavior Research Foundation
 * 2019: Kaplen Fellowship, Harvard Medical School 
@@ -58,24 +57,5 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
 
 
-## Collaborators
-* Prof. Diego Pizzagalli (McLean Hospital, Harvard Medical School)
-* Dr. Roselinde Kaiser (University of Colorado Boulder)
-* Dr. Chloe Boyle (University of California, Los Angeles)
-* Dr. Alexis Whitton (University of Sydney)
-* Prof. Masud Husain (University of Oxford)
-* Dr. Steve Gelda (McLean Hospital, Harvard Medical School)
-* Dr. Augustin G. Yip (McLean Hospital, Harvard Medical School)
-* Dr. Courtney Beard (McLean Hospital, Harvard Medical School)
-* Dr. Emily Belleau (McLean Hospital, Harvard Medical School)
-* Prof. Gerard Bruder (Columbia University)
-* Dr. Toshikazu Kawagoe (Rikkyo University)
-* Prof. Michael Meaney (Singapore Institute of Clinical Sciences, ASTAR Singapore)
-* Dr. Geoffrey Tan Chern-Yee (Institute of Mental Health, Singapore)
-* Dr. Jimmy Lee Chee Keong (Institute of Mental Health, Singapore)
-* Dr. Cheryl Loh Bee Lock (Changi General Hospital, Singapore)
-* Dr. David Teo Choon Liang (Changi General Hospital, Singapore)
-* Dr. Glen-Roche Cedric Tze Lee (Changi General Hospital, Singapore)
-* Ms. Michelle Lauw Siu Min (Changi General Hospital, Singapore)
 
 
