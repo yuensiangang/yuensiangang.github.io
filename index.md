@@ -8,8 +8,9 @@ To do that, I have carefully designed laboratory-based computerized tests to spe
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating!
 
 ## Education/Experience
+* 2023 - present: &nbsp;&nbsp;    Scientist II, Social and Cognitive Computing, IHPC, ASTAR, Singapore
 * 2021 - present: &nbsp;&nbsp;    Investigator, Brain-Body Initiative, ASTAR, Singapore
-* 2020 - present: &nbsp;&nbsp;    Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
+* 2020 - 2023: &nbsp;&nbsp;    Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
 * 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Postdoctoral Research Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
@@ -18,6 +19,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * Neural mechanisms underlying cognitive motivational anhedonia in health and depression
 * Multilevel investigation of mechanisms underlying stress and resilience
 * Option generation and cognitive effort-based decision-making in adolescent health and disease
+* MultIMOdal Surveillance for Autism (MIMOSA) Project – A tool for Screening and Assessing Response to Intervention in Autism Spectrum Disorder
 
 ## Awards / Honours
 * 2023: Inspiring Mentor Award, National University of Singapore High School
@@ -55,6 +57,16 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G. et al., Pizzagalli D.A. (2020). An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/exploration-of-baseline-and-early-changes-in-neurocognitive-characteristics-as-predictors-of-treatment-response-to-bupropion-sertraline-and-placebo-in-the-embarc-clinical-trial/0A70C043039B2ACDA22E1994CA79DE3A))  
 
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
+
+## News
+* 04/23: Dr. Ang obtains three-year funding support from the Duke-NUS Autism Research Fund to develop digital technologies for early screening of ASD in young children
+* 04/23: Dr. Ang nominated for the Singapore National Academy of Sciences Young Scientist Award
+* 03/23: Dr. Ang selected to attend the prestigious Lindau Nobel Laureate Meeting 2023
+* 02/23: Dr. Ang given the Inspiring Research Mentor Award by NUS High School
+* 02/22: Dr. Ang given the Inspiring Research Mentor Award by NUS High School
+* 10/20: Our latest article in Biological Psychiatry gets highlighted as "Editor's Choice"  
+* 09/20: Dr. Ang awarded the prestigious NARSAD Young Investigator Grant to investigate the neurobiological mechanisms of cognitive motivational anhedonia in depression
+* 06/19: Dr. Ang honored as one of two Kaplen Fellows in Depression at Harvard Medical School
 
 
 
