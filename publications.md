@@ -2,10 +2,10 @@
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
-##Technology Disclosures/Patents
+## Technology Disclosures/Patents
 * <b>Ang Y-S</b>, Lan L, Wong CK, Yue JYZ (2022). A mobile application for assessment of cognitive effort-based decision-making in humans.
 
-##Publications
+## Publications
 * Anant N., Kaur D., Nadarajan R., Phua D.Y., Yap S.C., Gluckman P.D., Yap F., Chen H., Broekman B., Meaney M.J., <b>Ang Y-S.</b> (in press). Validating the Children's Depression Inventory-2: Results from the Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study. <i>PLoS One</i>. In press.
 
 * Castellano P., Gigli V., Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Pizzagalli D.A., Ottaviani C. (2022). COVID-19 consequences on motivational functioning: an ecological investigation of the role of momentary gustative-olfactory sensitivity and tonic heart rate variability. <i>Neuroscience Applied</i>. ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9789470/)) 
