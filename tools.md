@@ -10,11 +10,8 @@ The option generation task (Ang et al. 2018, <i>Current Biology</i>) is a simple
 <br>
 ![](/images/option-generation.png)
 
-This task has demonstrated, for the first time, that dopamine (a key neurotransmitter in the brain) plays a causal modulatory role in the process of option generation. We also found that the ability to generate options is associated with motivation levels (Ang et al. 2018, <i>Current Biology</i>). 
-
-In another study, we found that option generation was affected in clinical depression and dopaminergic activity in the putamen of MDD patients may play a key role in the self-generation of options. Modafinil, a putative cognitive enhancer, was also found to influence option generation in healthy people by reducing the creativity of options produced (Ang et al. 2022, <i>Brain</i>).     
-
-If you are interested in using the option generation task for your own research, feel free to contact me at angys@ihpc.a-star.edu.sg   
+This task has demonstrated, for the first time, that dopamine (a key neurotransmitter in the brain) plays a causal modulatory role in the process of option generation. We also found that the ability to generate options is associated with motivation levels (Ang et al. 2018, <i>Current Biology</i>). In another study, we found that option generation was affected in clinical depression and dopaminergic activity in the putamen of MDD patients may play a key role in the self-generation of options. Modafinil, a putative cognitive enhancer, was also found to influence option generation in healthy people by reducing the creativity of options produced (Ang et al. 2022, <i>Brain</i>).     
+We have now developed a mobile application of this task on Android, as well as a web-based platform for automated analysis of key task metrics from the output (technology disclosures in prep). If you are interested in using the app for your own research, feel free to contact me at angys@ihpc.a-star.edu.sg   
 
 ## Cognitive Motivation Task
 Deficits in motivation might also arise due to impairments in weighing the rewards and effort costs associated with goal-directed behavior. An apathetic person could be oversensitive to the effort required to perform an action, insensitive to the associated rewards or both. It is important to be able to disentangle these processes and be able to objectively quantify individual levels of motivation.
@@ -23,7 +20,7 @@ The cognitive motivation task is a laboratory-based test to assess how willing a
 <br>
 ![](/images/Figure_1.png)
 
-A modified (simpler) version of this task is currently being applied to the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study to establish feasibility, utility and normative data in younger adolescents. If you are interested out to find out more in the meantime, feel free to contact me at angys@ihpc.a-star.edu.sg  
+A modified (simpler) mobile application version of this task on Android is currently being applied to the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study to establish feasibility, utility and normative data in younger adolescents. If you are interested out to find out more in the meantime, feel free to contact me at angys@ihpc.a-star.edu.sg  
 
 ## Apathy Motivation Index
 The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task (Klar et al. 2022, <i>Journal of Neuropsychology</i>). 
