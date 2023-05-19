@@ -2,7 +2,9 @@
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
-2022
+<b>Publications</b>
+* Anant N., Kaur D., Nadarajan R., Phua D.Y., Yap S.C., Gluckman P.D., Yap F., Chen H., Broekman B., Meaney M.J., <b>Ang Y-S.</b> Validating the Children's Depression Inventory-2: Results from the Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study. <i>PLoS One</i>. In press.
+
 * Castellano P., Gigli V., Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Pizzagalli D.A., Ottaviani C. COVID-19 consequences on motivational functioning: an ecological investigation of the role of momentary gustative-olfactory sensitivity and tonic heart rate variability. <i>Neuroscience Applied</i>. ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9789470/)) 
 
 * <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
@@ -11,7 +13,6 @@
 
 * Klar V.S., <b>Ang Y-S.</b>, Lockwood P., Attaallah B., Dickson S., Drew D., Kienast A., Maio M.R., Plant O., Slavkova E., Toniolo S., Zambellas R., Irani S.R., Husain M. Assessment of apathy in neurological patients using the Apathy Motivation Index caregiver version. <i>Journal of Neuropsychology</i>. ([Article](https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/jnp.12262)) 
 
-2021
 * Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Duda J.M., Fagioli S., Mennin D.S., Pizzagalli D.A., Ottaviani O. Perseverative Cognition in the Positive Valence Systems: An Experimental and Ecological Investigation. <i>Brain Sciences</i>. ([Article](https://www.mdpi.com/2076-3425/11/5/585))  
 
 * Suthaharan P., Corlett P., <b>Ang Y-S.</b> Computational modeling of behavioral tasks: An illustration on a classic reinforcement learning paradigm. <i>The Quantative Methods for Psychology</i>. ([Article](https://www.researchgate.net/publication/352674147_Computational_modeling_of_behavioral_tasks_An_illustration_on_a_classic_reinforcement_learning_paradigm)) 
@@ -20,7 +21,6 @@
 
 * Belleau E.L., Kremens R., <b>Ang Y-S.</b>, Pisoni A., Bondy E., Auerbach R.P., Pizzagalli D.A. Reward Functioning Abnormalities in Adolescents at High Familial Risk for Major Depressive Disorder. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. ([Article](https://www.sciencedirect.com/science/article/abs/pii/S2451902220302512)) 
 
-2020
 * <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))
 
 * <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G., Rutherford A., Alschuler D.M., Pechtel P., Webb C.A., Carmody T., Fava M.,  Cusin C., McGrath P.J.,  Weissman M.,  Parsey R., Oquendo M.A., McInnis M.G., Cooper C.M., Deldin P., Trivedi M.H., Pizzagalli D.A. An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/exploration-of-baseline-and-early-changes-in-neurocognitive-characteristics-as-predictors-of-treatment-response-to-bupropion-sertraline-and-placebo-in-the-embarc-clinical-trial/0A70C043039B2ACDA22E1994CA79DE3A))
@@ -33,12 +33,10 @@
   
 * Whitton A., Reinen J., Slifstein M., <b>Ang Y-S.</b>, McGrath J., Iosifescu D., Dargham A., Pizzagalli D., Schneier F. (2020). Baseline reward processing and ventrostriatal dopamine function is associated with pramiprexole response in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/2/701/5732977?redirectedFrom=fulltext)) 
 
-2019
 * Fallon S.J., Kienast A., Muhammed K., <b>Ang Y-S.</b>, Manohar S., Husain M. (2019). Dopamine D2 receptor stimulation modulates the balance between ignoring and updating according to baseline working memory ability. <i>Journal of Psychopharmacology</i>. ([Article](https://journals.sagepub.com/doi/full/10.1177/0269881119872190?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed))  
   
 * <b>Ang Y-S.</b>, Pizzagalli D.A. (2019). Understanding Personal Control and the Brain Reward System for Psychopathology is Challenging but Important. <i>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</i>. ([Article](https://www.biologicalpsychiatrycnni.org/article/S2451-9022(18)30326-4/fulltext))  
 
-2018
 * <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O., Kienast A., Le Heron C., Muhammed K., Hu M., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
   
 * Le Heron C., Plant O., Manohar S., <b>Ang Y-S.</b>, Jackson M., Lennox G., Husain M. (2018). Distinct effects of dopamine and apathy on effort based decision making in Parkinson's disease. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article/141/5/1455/4974326))  
@@ -49,7 +47,6 @@
   
 * Fallon S.J., Muhammed K., Drew D.S., <b>Ang Y-S.</b>, Manohar S., Husain M. (2018). Dopamine guides competition for cognitive control: Common effects of haloperidol on working memory and response conflict. <i>Cortex</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S0010945218304155))  
 
-2015 - 2017
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
   
 * Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. <i>Scientific Reports</i>. ([Article](https://www.nature.com/articles/s41598-017-17415-w))  
