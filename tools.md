@@ -19,6 +19,8 @@ Deficits in motivation might also arise due to impairments in weighing the rewar
 The cognitive motivation task is a laboratory-based test to assess how willing an individual is to invest <i>cognitive</i> effort in pursuit of rewards. By applying mathematical algorithms to capture the way a person performs the task, we can index a person's cognitive motivation by computational parameters that can be compared with other people. In other words, we can say exactly how much more motivated or less motivated a person is relative to another. This task has been validated in the healthy population as well as patients with Major Depressive Disorder (Ang et al. 2022, <i>Psychological Medicine</i>). 
 <br>
 ![](/images/Figure_1.png)
+<br>
+![](/images/Figure_2.PNG)
 
 We have now developed a modified, simpler mobile application version of this task on Android and successfully deployed it in the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study to establish feasibility, utility and normative data in younger adolescents. If you are interested to find out more, feel free to contact me at angys@ihpc.a-star.edu.sg  
 
