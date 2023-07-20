@@ -4,6 +4,7 @@
 
 ## Technology Disclosures/Patents
 * <b>Ang Y-S</b>, Y Chen (2023). A web-based application for automated computation of creativity from the option generation test.
+  
 * <b>Ang Y-S</b>, Lan L, Wong CK, Yue JYZ (2022). A mobile application for assessment of cognitive effort-based decision-making in humans.
 
 ## Publications
