@@ -10,7 +10,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 ## Education/Experience
 * 2023 - present: &nbsp;&nbsp;    Senior Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore
 * 2021 - present: &nbsp;&nbsp;    Investigator, Brain-Body Initiative, ASTAR, Singapore
-* 2023 - 2023: &nbsp;&nbsp;    Scientist II, Social and Cognitive Computing, IHPC, ASTAR, Singapore
+* 2023 - 2023: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Scientist II, Social and Cognitive Computing, IHPC, ASTAR, Singapore
 * 2020 - 2023: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
 * 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Postdoctoral Research Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
