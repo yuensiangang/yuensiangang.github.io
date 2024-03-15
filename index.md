@@ -1,7 +1,7 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 ## My Research
-My research focuses on brain mechanisms involved in cognitive processes such as decision-making and reinforcement learning. I study cognition in healthy people and investigate how disruptions in cognition arise in illnesses such as Major Depressive Disorder. 
+My research focuses on brain mechanisms involved in cognitive processes such as decision-making, reinforcement learning, motivation and emotional regulation. I study cognition in healthy people and investigate how disruptions in cognition arise in illnesses such as depression, as well as how we can optimize human health and potential by understanding their impact on learning outcomes, skills training and workforce productivity.
 
 To do that, I have carefully designed laboratory-based computerized tests to specifically measure the cognitive process of interest in humans; and developed computational models that instantiated algorithmic hypotheses about how humans perform the test and can help better understand variability in human behaviour at the individual level. Precise mathematical algorithms were used to find parameter values that best capture each individual’s behavioral pattern during the computerized tests. These parameters were in turn mapped onto the brain with pharmacological challenge and brain imaging techniques, which will help us understand how disrupted cognition might arise in disease. 
   
