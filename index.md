@@ -14,13 +14,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * 2020 - 2023: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
 * 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Postdoctoral Research Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
-* 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top of Class), Nanyang Technological                                                                             University
-
-## Ongoing Projects
-* Neural mechanisms underlying cognitive motivational anhedonia in health and depression
-* Multilevel investigation of mechanisms underlying stress and resilience
-* Option generation and cognitive effort-based decision-making in adolescent health and disease
-* MultIMOdal Surveillance for Autism (MIMOSA) Project – A tool for Screening and Assessing Response to Intervention in Autism Spectrum Disorder
+* 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top in Class, cGPA 4.99/5.00), Nanyang Technological University
 
 ## Awards / Honours
 * 2023: Inspiring Mentor Award, National University of Singapore High School
