@@ -3,9 +3,9 @@
 ## My Research
 My research focuses on brain mechanisms involved in cognitive processes such as decision-making, reinforcement learning, motivation and emotional regulation. I study cognition in healthy people and investigate how disruptions in cognition arise in illnesses such as depression, as well as how we can optimize human health and potential by understanding their impact on learning outcomes, skills training and workforce productivity.
 
-To do that, I have carefully designed laboratory-based computerized tests and mobile apps to specifically measure the cognitive process of interest in humans; and developed computational models that instantiated algorithmic hypotheses about how humans perform the test and can help better understand variability in human behaviour at the individual level. Precise mathematical algorithms were used to find parameter values that best capture each individual’s behavioral pattern during the computerized tests. These parameters were in turn mapped onto the brain with pharmacological challenge and brain imaging techniques, which will help us understand how disrupted cognition might arise in disease. 
+To do that, I have carefully designed laboratory-based computerized tests and mobile apps to specifically measure the cognitive process of interest in humans, and developed computational models that instantiated algorithmic hypotheses about how humans perform the test and can help better understand variability in human behaviour at the individual level. Precise mathematical algorithms were used to find parameter values that best capture each individual’s behavioral pattern during the computerized tests. These parameters were in turn mapped onto the brain with pharmacological challenge and brain imaging techniques, which will help us understand how disrupted cognition might arise in disease. 
   
-Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating!
+Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating.
 
 ## Education/Experience
 * 2023 - present: &nbsp;&nbsp;    Senior Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore
@@ -54,7 +54,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
 
 ## News
-* 04/23: Dr. Ang obtains three-year funding support from the Duke-NUS Autism Research Fund to develop digital technologies for early screening of ASD in young children
+* 04/23: Dr. Ang obtains three-year funding support to develop digital technologies for early screening of ASD in young children
 * 04/23: Dr. Ang nominated for the Singapore National Academy of Sciences Young Scientist Award
 * 03/23: Dr. Ang selected to attend the prestigious Lindau Nobel Laureate Meeting 2023
 * 02/23: Dr. Ang given the Inspiring Research Mentor Award by NUS High School
