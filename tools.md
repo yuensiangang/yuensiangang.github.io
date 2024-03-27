@@ -10,22 +10,14 @@ The option generation task (Ang et al. 2018, <i>Current Biology</i>) is a simple
 
 This task has demonstrated, for the first time, that dopamine (a key neurotransmitter in the brain) plays a causal modulatory role in the process of option generation. We also found that the ability to generate options is associated with motivation levels (Ang et al. 2018, <i>Current Biology</i>). In another study, we found that option generation was affected in clinical depression and dopaminergic activity in the putamen of MDD patients may play a key role in the self-generation of options. Modafinil, a putative cognitive enhancer, was also found to influence option generation in healthy people by reducing the creativity of options produced (Ang et al. 2022, <i>Brain</i>).
 
-We have now developed a mobile application of this task on Android, as well as a web-based platform for automated analysis of key task metrics from the output (technology disclosures in prep). If you are interested in using the app for your own research, feel free to contact me at angys@ihpc.a-star.edu.sg   
+We have now developed a mobile application of this task on Android, as well as a web-based platform for automated analysis of key task metrics from the output. 
 
 ## Cognitive Motivation Task
-Deficits in motivation might also arise due to impairments in weighing the rewards and effort costs associated with goal-directed behavior. An apathetic person could be oversensitive to the effort required to perform an action, insensitive to the associated rewards or both. It is important to be able to disentangle these processes and be able to objectively quantify individual levels of motivation.
+Deficits in motivation might also arise due to impairments in weighing the rewards and effort costs associated with goal-directed behavior. It is important to be able to examine these processes and be able to objectively quantify individual levels of motivation.
 
-The cognitive motivation task is a laboratory-based test to assess how willing an individual is to invest <i>cognitive</i> effort in pursuit of rewards. By applying mathematical algorithms to capture the way a person performs the task, we can index a person's cognitive motivation by computational parameters that can be compared with other people. In other words, we can say exactly how much more motivated or less motivated a person is relative to another. This task has been validated in the healthy population as well as patients with Major Depressive Disorder (Ang et al. 2022, <i>Psychological Medicine</i>). We have also developed a modified, simpler mobile application version of this task on Android and successfully deployed it in the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study to establish feasibility, utility and normative data in younger adolescents. If you are interested to find out more, feel free to contact me at angys@ihpc.a-star.edu.sg  
-<br>
+The cognitive motivation task is a laboratory-based test to assess how willing an individual is to invest <i>cognitive</i> effort in pursuit of rewards. By applying mathematical algorithms to capture the way a person performs the task, we can index a person's cognitive motivation by computational parameters that can be compared with other people. This task has been validated in the healthy population as well as patients with Major Depressive Disorder (Ang et al. 2022, <i>Psychological Medicine</i>). We have also developed a modified, simpler mobile application version of this task on Android and successfully deployed it in the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study in adolescents. 
 
 ## Apathy Motivation Index
 The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task (Klar et al. 2022, <i>Journal of Neuropsychology</i>). 
 
-The AMI is freely available for use with appropriate citation. If you require a copy of the questionnaire, feel free to contact me at angys@ihpc.a-star.edu.sg  
-
-## Computational Modeling of Behavioral Tasks (CMBT) R Package
-There has been a growing interest among psychologists, psychiatrists and neuroscientists in applying computational modeling to behavioral data to understand animal and human behavior. Such approaches can be daunting for those without experience. 
-
-Together with Praveen Suthaharan, we have developed an R package that allows users to apply computational modeling and parameter estimation of behavioral tasks via three techniques: Maximum Likelihood Estimation (MLE), Maximum A Posteriori (MAP) and Expectation-Maximization with Laplace approximation (EML). A demonstratation of this tool can be found in Suthaharan et al. 2021, <i>The Quantitative Methods for Psychology</i>. 
-
-Details and updates can be found at his github: https://rdrr.io/github/psuthaharan/bandit2arm/
+The AMI is freely available for use with appropriate citation. 
