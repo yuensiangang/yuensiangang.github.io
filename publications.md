@@ -2,11 +2,6 @@
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
-## Technology Disclosures/Patents
-* <b>Ang Y-S</b>, Y Chen (2023). A web-based application for automated computation of creativity from the option generation test.
-  
-* <b>Ang Y-S</b>, Lan L, Wong CK, Yue JYZ (2022). A mobile application for assessment of cognitive effort-based decision-making in humans.
-
 ## Publications
 * Dillon D.G., Belleau E.B., Origlio J., McKee M., Jahan A., Meyer A., Souther M.K., Brunner D., Kuhn M., <b>Ang Y-S.</b>, Cusin C., Fava M., Pizzagalli D.A. (In Press). Using drift diffusion and RL models to disentangle effects of depression on decision-making vs. learning in the probabilistic reward task. <i>Computational Psychiatry</i>.
 
@@ -59,3 +54,8 @@
 * Lockwood P.\*, <b>Ang Y-S.</b>\*, Crockett M., Husain M. (2017). Motivated empathy: associations between empathy and apathy-motivation. in healthy people. <i>Scientific Reports</i>. ([Article](https://www.nature.com/articles/s41598-017-17415-w))  
   
 * <b>Ang Y-S.</b>, Manohar S., Apps M.A.J. (2015). Commentary: Noradrenaline and Dopamine Neurons in the Reward/Effort Trade-off: A Direct Electrophysiological Comparison in Behaving Monkeys. <i>Frontiers in Behavioural Neuroscience</i>. ([Article](https://www.frontiersin.org/articles/10.3389/fnbeh.2015.00310/full))
+
+## Technology Disclosures/Patents
+* <b>Ang Y-S</b>, Y Chen (2023). A web-based application for automated computation of creativity from the option generation test.
+  
+* <b>Ang Y-S</b>, Lan L, Wong CK, Yue JYZ (2022). A mobile application for assessment of cognitive effort-based decision-making in humans.
