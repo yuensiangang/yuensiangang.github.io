@@ -25,5 +25,9 @@ The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief 
 The AMI is freely available for use with appropriate citation. 
 
 ## MRI Processing Scripts
-*([Batch Dicom Convert](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_dicom_convert.m))
-*([Batch Preprocessing](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_preprocessing_new_job.m))
+These are scripts that I have written to deal with brain MRI research data. 
+*[Batch Dicom Convert](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_dicom_convert.m)
+
+*[Batch Preprocessing](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_preprocessing_new_job.m)
+
+*[Batch Check Motion Parameters](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/script_check_motion.m)
