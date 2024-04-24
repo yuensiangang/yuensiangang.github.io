@@ -23,3 +23,7 @@ We have also developed a modified, simpler mobile application version of this ta
 The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task (Klar et al. 2022, <i>Journal of Neuropsychology</i>). 
 
 The AMI is freely available for use with appropriate citation. 
+
+## MRI Processing Scripts
+*([Batch Dicom Convert](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_dicom_convert.m))
+*([Batch Preprocessing](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_preprocessing_new_job.m))
