@@ -8,17 +8,21 @@ To do that, I have carefully designed laboratory-based computerized tests and mo
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating.
 
 ## Team
-I work with a group of highly talented individuals on the following key projects
+I work with a group of highly talented individuals on the following key projects <br>
+
 **Enhancing Metacognition in Adults** <br>
 * Gladia Hotan
 * Clare Tan 
-* Landy Lan
+* Landy Lan <br>
+
 **AI-based screening of ASD in children** <br>
 * Shirshajit Sen Gupta
-* Clare Tan
+* Clare Tan <br>
+
 **AI-based intervention for ASD** <br>
 *Chen Caishun
-*Chen Yanlin
+*Chen Yanlin <br>
+
 **Neural Mechanisms of Motivation** <br>
 *Loy Xingqi
 
