@@ -20,11 +20,11 @@ I work with a group of highly talented individuals on the following key projects
 * Clare Tan <br>
 
 **AI-based intervention for ASD** <br>
-*Chen Caishun
-*Chen Yanlin <br>
+* Chen Caishun
+* Chen Yanlin <br>
 
 **Neural Mechanisms of Motivation** <br>
-*Loy Xingqi
+* Loy Xingqi
 
 
 ## Education/Experience
