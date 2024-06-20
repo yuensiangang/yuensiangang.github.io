@@ -9,10 +9,18 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 ## Team
 I work with a group of highly talented individuals on the following key projects
-* Tech-augmented enhancement of metacognition <br>Gladia Hotan, Clare Tan, Landy Lan
-* AI-based screening of ASD in children <br>Shirshajit Sen Gupta, Clare Tan
-* AI-based intervention for ASD <br>Chen Caishun, Chen Yanlin
-* Neural Mechanisms of Motivation in Depression <br>Loy Xingqi
+**Enhancing Metacognition in Adults** <br>
+* Gladia Hotan
+* Clare Tan 
+* Landy Lan
+**AI-based screening of ASD in children** <br>
+* Shirshajit Sen Gupta
+* Clare Tan
+**AI-based intervention for ASD** <br>
+*Chen Caishun
+*Chen Yanlin
+**Neural Mechanisms of Motivation** <br>
+*Loy Xingqi
 
 
 ## Education/Experience
