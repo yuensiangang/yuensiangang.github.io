@@ -7,6 +7,17 @@ To do that, I have carefully designed laboratory-based computerized tests and mo
   
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating.
 
+## Team
+I work with a group of highly talented individuals on the following key projects
+* Tech-augmented enhancement of metacognition
+Gladia Hotan, Clare Tan, Landy Lan
+* AI-based screening of ASD in children
+Shirshajit Sen Gupta, Clare Tan
+* AI-based intervention for ASD
+Chen Caishun, Chen Yanlin
+* Neural Mechanisms of Motivation in Depression
+
+
 ## Education/Experience
 * 2023 - present: &nbsp;&nbsp;    Senior Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore
 * 2021 - present: &nbsp;&nbsp;    Investigator, Brain-Body Initiative, ASTAR, Singapore
@@ -54,6 +65,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938))  
 
 ## News
+* 06/24: Dr. Ang and A/Prof Renee Tan awarded the MOE Science of Learning Grant for tech-augmented enhancement of metacognition in adult learners 
 * 04/23: Dr. Ang obtains three-year funding support to develop digital technologies for early screening of ASD in young children
 * 04/23: Dr. Ang nominated for the Singapore National Academy of Sciences Young Scientist Award
 * 03/23: Dr. Ang selected to attend the prestigious Lindau Nobel Laureate Meeting 2023
