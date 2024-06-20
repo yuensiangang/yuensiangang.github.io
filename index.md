@@ -7,26 +7,6 @@ To do that, I have carefully designed laboratory-based computerized tests and mo
   
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating.
 
-## Team
-I work with a group of highly talented individuals on the following key projects <br>
-
-**Enhancing Metacognition in Adults** <br>
-* Gladia Hotan
-* Clare Tan 
-* Landy Lan <br>
-
-**AI-based screening of ASD in children** <br>
-* Shirshajit Sen Gupta
-* Clare Tan <br>
-
-**AI-based intervention for ASD** <br>
-* Chen Caishun
-* Chen Yanlin <br>
-
-**Neural Mechanisms of Motivation** <br>
-* Loy Xingqi
-
-
 ## Education/Experience
 * 2023 - present: &nbsp;&nbsp;    Senior Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore
 * 2021 - present: &nbsp;&nbsp;    Investigator, Brain-Body Initiative, ASTAR, Singapore
