@@ -24,9 +24,9 @@ The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief 
 
 The AMI is freely available for use with appropriate citation. 
 
-## MRI Processing Scripts
-These are scripts that I have written to deal with brain MRI research data. 
+## Useful Code
 
-* [Batch Dicom Convert](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_dicom_convert.m). Batch converts all dicom files of interest to nifti format.  
-* [Batch Preprocessing](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_preprocessing_new_job.m). Batch preprocesses fMRI nifti files. The preprocessing pipeline involves realignment and unwarping, slice-timing correction, coregistration, segmentation, normalization and smoothing. 
-* [Check Motion Parameters](https://github.com/yuensiangang/mri_scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/script_check_motion.m). Plots the six motion parameters obtained from the preprocessing pipeline, allowing us to visualize movement for subjects and conduct QC. 
+* [Batch Dicom Convert](https://github.com/yuensiangang/scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_dicom_convert.m). Batch converts all dicom files of interest to nifti format.  
+* [Batch Preprocessing](https://github.com/yuensiangang/scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_preprocessing_new_job.m). Batch preprocesses fMRI nifti files. The preprocessing pipeline involves realignment and unwarping, slice-timing correction, coregistration, segmentation, normalization and smoothing. 
+* [Check Motion Parameters](https://github.com/yuensiangang/scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/script_check_motion.m). Plots the six motion parameters obtained from the preprocessing pipeline, allowing us to visualize movement for subjects and conduct QC.
+* [PsychoPy Task](https://github.com/yuensiangang/scripts/blob/7497500ef86e635a178d1aafdfd05efbf5155393/task_template_DMS.py). Template for coding a cognitive task on PsychoPy, using the delayed match-to-sampling task as an example. 
