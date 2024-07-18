@@ -8,6 +8,7 @@ To do that, I have carefully designed laboratory-based computerized tests and mo
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating.
 
 ## Education/Experience
+* 2024 - present: &nbsp;&nbsp;    Visiting Scientist, Research Division, Institute of Adult Learning, Singapore
 * 2023 - present: &nbsp;&nbsp;    Senior Scientist I, Social and Cognitive Computing, IHPC, ASTAR, Singapore
 * 2021 - present: &nbsp;&nbsp;    Investigator, Brain-Body Initiative, ASTAR, Singapore
 * 2023 - 2023: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Scientist II, Social and Cognitive Computing, IHPC, ASTAR, Singapore
