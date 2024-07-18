@@ -3,6 +3,10 @@
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 ## Publications
+* Kangas B., <b>Ang Y-S.</b>, Short A.K., Baram T., Pizzagalli D.A. (In Press). Computational Modeling Differentiates Learning Rate from Reward Sensitivity Deficits Produced by Early Life Adversity in a Rodent Touchscreen Probabilistic Reward Task. <i>Biological Psychiatry: Global Open Science</i>. 
+
+* Gigli V., Castellano P., Ghezzi V., <b>Ang Y-S.</b>, Schettino M., Pizzagalli D.A., Ottaviani C. (In Press). Daily social isolation maps onto distinctive features of anhedonic behavior: A combined ecological and computational investigation. <i>Biological Psychiatry: Global Open Science</i>. 
+
 * Dillon D.G., Belleau E.B., Origlio J., McKee M., Jahan A., Meyer A., Souther M.K., Brunner D., Kuhn M., <b>Ang Y-S.</b>, Cusin C., Fava M., Pizzagalli D.A. (In Press). Using drift diffusion and RL models to disentangle effects of depression on decision-making vs. learning in the probabilistic reward task. <i>Computational Psychiatry</i>.
 
 * Anant N., Kaur D., Nadarajan R., Phua D.Y., Yap S.C., Gluckman P.D., Yap F., Chen H., Broekman B., Meaney M.J., <b>Ang Y-S.</b> (2023). Validating the Children's Depression Inventory-2: Results from the Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286197)) 
