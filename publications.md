@@ -3,6 +3,10 @@
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 ## Publications
+* Cusin C., Dillon D.G., Belleau E., Normandin M.D., Petibon Y., El-Fakri G., Dhaynaut M., Hooker J., Kaptchuk T., McKee M., Hayden E., Meyer A., Jahan A., Origlio J., <b>Ang Y-S.</b>, Brunner D., Kang M., Long Y., Fava M., Pizzagalli D.A. (In Press). Novel multi-modal methodology to investigate placebo response in major depressive disorder. <i>Journal of Affective Disorders</i>.
+
+* Han M.X., Nadarajan R., Wang N., Kee M.Z.L., Lim S., Sagar Y.K., Chow B., Tan A.P., Cheon B.K., <b>Ang Y-S.</b>, Zhou J.H., Chen H.Y., Chong Y.S., Gluckman P.D., Meaney M.J., Law E.C. (In Press). Maternal depressive symptoms and risk for childhood depression: role of executive functions. <i>Journal of the American Academy of Child and Adolescent Psychiatry</i>.
+
 * Kangas B., <b>Ang Y-S.</b>, Short A.K., Baram T., Pizzagalli D.A. (In Press). Computational Modeling Differentiates Learning Rate from Reward Sensitivity Deficits Produced by Early Life Adversity in a Rodent Touchscreen Probabilistic Reward Task. <i>Biological Psychiatry: Global Open Science</i>. 
 
 * Gigli V., Castellano P., Ghezzi V., <b>Ang Y-S.</b>, Schettino M., Pizzagalli D.A., Ottaviani C. (In Press). Daily social isolation maps onto distinctive features of anhedonic behavior: A combined ecological and computational investigation. <i>Biological Psychiatry: Global Open Science</i>. 
