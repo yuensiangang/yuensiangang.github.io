@@ -7,12 +7,13 @@ To do that, I have carefully designed laboratory-based computerized tests and mo
   
 Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating.
 
-## Education/Experience
+## Experience
 * 2024 - present: &nbsp;&nbsp;    Visiting Scientist, Research Division, Institute of Adult Learning, Singapore
 * 2023 - present: &nbsp;&nbsp;    Senior Scientist, Social and Cognitive Computing, IHPC, ASTAR, Singapore
-* 2021 - present: &nbsp;&nbsp;    Investigator, Brain-Body Initiative, ASTAR, Singapore
 * 2020 - 2023: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Scientist, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
-* 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Postdoctoral Research Fellow, Harvard Medical School
+
+## Education
+* 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Kaplen Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top in Class, cGPA 4.99/5.00), Nanyang Technological University
 
