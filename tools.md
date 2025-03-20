@@ -1,6 +1,6 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
  
-## Option Generation Task
+### Option Generation Task
 Loss of motivation is clinically debilitating and associated with serious functional consequences. Emerging evidence suggests that decision-making processes may be impaired in people with dysfunctional motivation, regardless of underlying pathology. One important process is the ability to self-generate options for behavior. Many patients with apathy or anhedonia can perform actions when prompted by others, but experience difficulty in initiating behaviors by themselves. Unfortunately, how we self-generate options for behavior is not well-understood. 
 
 The option generation task (Ang et al. 2018, <i>Current Biology</i>) is a simple behavioral paradigm that allows us to probe this process in humans. Subjects have to draw, on a touchscreen computer, as many different paths as they can between two vertically aligned points within a time limit. Using our mathematical formulation of similarity between the traced paths, one can objectively measure:
@@ -12,19 +12,19 @@ This task has demonstrated, for the first time, that dopamine (a key neurotransm
 
 We have now developed a mobile application of this task on Android, as well as a web-based platform for automated analysis of key task metrics from the output. 
 
-## Cognitive Motivation Task
+### Cognitive Motivation Task
 Deficits in motivation might also arise due to impairments in weighing the rewards and effort costs associated with goal-directed behavior. It is important to be able to examine these processes and be able to objectively quantify individual levels of motivation.
 
 The cognitive motivation task is a laboratory-based test to assess how willing an individual is to invest <i>cognitive</i> effort in pursuit of rewards. By applying mathematical algorithms to capture the way a person performs the task, we can index a person's cognitive motivation by computational parameters that can be compared with other people. This task has been validated in the healthy population as well as patients with Major Depressive Disorder (Ang et al. 2022, <i>Psychological Medicine</i>). 
 
 We have also developed a modified, simpler mobile application version of this task on Android and successfully deployed it in the large nationwide Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study in adolescents. 
 
-## Apathy Motivation Index
+### Apathy Motivation Index
 The Apathy Motivation Index (AMI) (Ang et al. 2017, <i>PLoS One</i>) is a brief self-report assessment of apathy and motivation in the behavioral, social and emotional domains. It possesses good internal reliability, test-retest reliability and construct validity; and has been rigorously validated with both exploratory and confirmatory factor analyses. It has been translated into Chinese, Dutch and German and is currently being used by 20+ groups around the world. We have also validated a caregiver version of the task (Klar et al. 2022, <i>Journal of Neuropsychology</i>). 
 
 The AMI is freely available for use with appropriate citation. 
 
-## Useful Code
+### Useful Code
 
 * [Batch Dicom Convert](https://github.com/yuensiangang/scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_dicom_convert.m). Batch converts all dicom files of interest to nifti format.  
 * [Batch Preprocessing](https://github.com/yuensiangang/scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_preprocessing_new_job.m). Batch preprocesses fMRI nifti files. The preprocessing pipeline involves realignment and unwarping, slice-timing correction, coregistration, segmentation, normalization and smoothing. 
