@@ -2,7 +2,7 @@
 
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
-## Publications
+### Publications
 * Cusin C., Dillon D.G., Belleau E., Normandin M.D., Petibon Y., El-Fakri G., Dhaynaut M., Hooker J., Kaptchuk T., McKee M., Hayden E., Meyer A., Jahan A., Origlio J., <b>Ang Y-S.</b>, Brunner D., Kang M., Long Y., Fava M., Pizzagalli D.A. (In Press). Novel multi-modal methodology to investigate placebo response in major depressive disorder. <i>Journal of Affective Disorders</i>.
 
 * Han M.X., Nadarajan R., Wang N., Kee M.Z.L., Lim S., Sagar Y.K., Chow B., Tan A.P., Cheon B.K., <b>Ang Y-S.</b>, Zhou J.H., Chen H.Y., Chong Y.S., Gluckman P.D., Meaney M.J., Law E.C. (In Press). Maternal depressive symptoms and risk for childhood depression: role of executive functions. <i>Journal of the American Academy of Child and Adolescent Psychiatry</i>.
@@ -63,7 +63,7 @@
   
 * <b>Ang Y-S.</b>, Manohar S., Apps M.A.J. (2015). Commentary: Noradrenaline and Dopamine Neurons in the Reward/Effort Trade-off: A Direct Electrophysiological Comparison in Behaving Monkeys. <i>Frontiers in Behavioural Neuroscience</i>. ([Article](https://www.frontiersin.org/articles/10.3389/fnbeh.2015.00310/full))
 
-## Technology Disclosures/Patents
+### Technology Disclosures/Patents
 * <b>Ang Y-S</b>, Y Chen (2023). A web-based application for automated computation of creativity from the option generation test.
   
 * <b>Ang Y-S</b>, Lan L, Wong CK, Yue JYZ (2022). A mobile application for assessment of cognitive effort-based decision-making in humans.
