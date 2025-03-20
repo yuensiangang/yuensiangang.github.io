@@ -1,34 +1,34 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
-## My Research
+### My Research
 I am an interdisciplinary scientist who fuses computational modeling, neuroscience, psychology and innovative technology to decode human behaviour. My work centers on understanding cognitive processes, ranging from decision-making and reinforcement learning to motivation and emotional regulation, and translating these insights into tangible tools for advancing human health and performance. 
 
 Building on these insights, our team is currently focusing on developing and validating a tech-augmented learning programme designed to enhance metacognition (ability to understand and regulate your own thinking processes) in adult learners. Together with experts in pedagogy, we are developing innovative digital tools that seamlessly blend rigorous scientific insights with practical applications --- with the goals of redefining adult education, fostering lifelong learning and empowering individuals to achieve their fullest potential.
 
 <!-- My research focuses on brain mechanisms involved in cognitive processes such as decision-making, reinforcement learning, motivation and emotional regulation. I study cognition in healthy people and investigate how disruptions in cognition arise in illnesses such as depression, as well as how we can optimize human health and potential by understanding their impact on learning outcomes, skills training and workforce productivity.
 
-To do that, I have carefully designed laboratory-based computerized tests and mobile apps to specifically measure the cognitive process of interest in humans, and developed computational models that instantiated algorithmic hypotheses about how humans perform the test and can help better understand variability in human behaviour at the individual level. Precise mathematical algorithms were used to find parameter values that best capture each individual’s behavioral pattern during the computerized tests. These parameters were in turn mapped onto the brain with pharmacological challenge and brain imaging techniques, which will help us understand how disrupted cognition might arise in disease. 
+To do that, I have carefully designed laboratory-based computerized tests and mobile apps to specifically measure the cognitive process of interest in humans, and developed computational models that instantiated algorithmic hypotheses about how humans perform the test and can help better understand variability in human behaviour at the individual level. Precise mathematical algorithms were used to find parameter values that best capture each individual’s behavioral pattern during the computerized tests. These parameters were in turn mapped onto the brain with pharmacological challenge and brain imaging techniques, which will help us understand how disrupted cognition might arise in disease. -->
   
-Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating. -->
+Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my research or are interested in collaborating. 
 
-## Experience
+### Experience
 * 2024 - present: &nbsp;&nbsp;    Visiting Scientist, Research Division, Institute of Adult Learning, Singapore
 * 2023 - present: &nbsp;&nbsp;    Senior Scientist, Social and Cognitive Computing, IHPC, ASTAR, Singapore
 * 2020 - 2023: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Scientist, Social and Cognitive Computing, IHPC, ASTAR, Singapore 
 
-## Education
-* 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Kaplen Fellow, Harvard Medical School
+### Education
+* 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top in Class, cGPA 4.99/5.00), Nanyang Technological University
 
-## Teammates
-* Gladia Hotan (Research Fellow)
-* Landy Lan (Engineer)
-* Clare Tan (Engineer)
-* Juanita Ong (Research Assistant)
-* Sophia Koo (Research Assistant)
+### Teammates
+* Gladia Hotan, Research Fellow
+* Landy Lan, Engineer
+* Clare Tan, Engineer
+* Juanita Ong, Research Assistant
+* Sophia Koo, Research Assistant
 
-<!-- Awards / Honours  
+### Awards / Honours  
 * 2023: Inspiring Mentor Award, National University of Singapore High School
 * 2022: Inspiring Mentor Award, National University of Singapore High School
 * 2020: NARSAD Young Investigator Award, Brain and Behavior Research Foundation
@@ -49,11 +49,11 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * 2011: Dean's List, Nanyang Technological University
 * 2010: Dean's List, Nanyang Technological University  
 
-## Key Publications
+### Key Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 * <b>Ang Y-S.</b>, Cusin C., Petibon Y. et al. (2022). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/145/5/1854/6527662?redirectedFrom=fulltext&login=false)) 
 
-* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. (2022). Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
+* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. (2023). Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
 
 * <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))  
 
@@ -65,7 +65,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938)) 
 
-## News
+<!-- ## News
 * 06/24: Dr. Ang and A/Prof Renee Tan awarded the MOE Science of Learning Grant for tech-augmented enhancement of metacognition in adult learners 
 * 04/23: Dr. Ang obtains three-year funding support to develop digital technologies for early screening of ASD in young children
 * 04/23: Dr. Ang nominated for the Singapore National Academy of Sciences Young Scientist Award
