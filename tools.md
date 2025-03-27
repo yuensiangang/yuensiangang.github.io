@@ -31,7 +31,7 @@ The AMI is a brief, validated self-report measure designed to assess apathy and 
 
 Originally developed and validated in healthy and clinical populations (Ang et al., PLoS One, 2017), the AMI has shown robust psychometric properties and has been translated into multiple languages, including Chinese, Dutch and German. A caregiver-rated version has also been validated (Klar et al., Journal of Neuropsychology, 2022), expanding its use in developmental and clinical settings. The AMI is currently in use by over 20 research groups worldwide and is freely available for non-commercial research use with appropriate citation.
 
-### Useful Code
+#### Useful Code
 
 * [Batch Dicom Convert](https://github.com/yuensiangang/scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_dicom_convert.m). Batch converts all dicom files of interest to nifti format.  
 * [Batch Preprocessing](https://github.com/yuensiangang/scripts/blob/05230066dbca892e1e6fe09c1990347a973b4980/spm_job_preprocessing_new_job.m). Batch preprocesses fMRI nifti files. The preprocessing pipeline involves realignment and unwarping, slice-timing correction, coregistration, segmentation, normalization and smoothing. 
