@@ -1,4 +1,4 @@
-[About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
+[About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Research](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 ### About me
 I am an interdisciplinary scientist driven by a deep curiosity about the human mind and a passion for translating scientific discovery into real-world solutions. My journey began with a foundation in physics, where I learned to model complex systems — a skill that would later become central to my efforts to decode the intricacies of human behaviour. This curiosity led me to pursue a DPhil and Postdoctoral training in Clinical and Computational Neuroscience, where I explored how brain function gives rise to cognition, emotion and behaviour — not just in theory, but in the lived experiences of people navigating health, learning and life.
