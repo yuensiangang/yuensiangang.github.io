@@ -1,4 +1,4 @@
-[About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
+[About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Research](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
  
 ### Option Generation Task
 Loss of motivation is clinically debilitating and associated with serious functional consequences. Emerging evidence suggests that decision-making processes may be impaired in people with dysfunctional motivation, regardless of underlying pathology. One important process is the ability to self-generate options for behavior. Many patients with apathy or anhedonia can perform actions when prompted by others, but experience difficulty in initiating behaviors by themselves. Unfortunately, how we self-generate options for behavior is not well-understood. 
