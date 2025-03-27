@@ -32,32 +32,11 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * Ms. Juanita Ong, Research Assistant
 * Ms. Sophia Koo, Research Assistant
 
-### Students
+### Mentored Students
 * Mr. Praveen Suthaharan (Currently doing PhD at Yale)
 * Ms. Yanlin Chen (Currently doing BSc at Carnegie Mellon)
 * Ms. Cindy J. Pang (Currently doing PhD at UCLA)
 * Ms. Nicole Frontero (Currently data analyst in private sector)
-
-### Awards / Honours  
-* 2023: Inspiring Mentor Award, National University of Singapore High School
-* 2022: Inspiring Mentor Award, National University of Singapore High School
-* 2020: NARSAD Young Investigator Award, Brain and Behavior Research Foundation
-* 2019: Kaplen Fellowship, Harvard Medical School 
-* 2019: Livingston Award, Harvard Medical School
-* 2018: Dorris Family Pilot Translational Research Award, McLean Hospital
-* 2018: Letter of Commendation for Excellent D.Phil. Thesis, University of Oxford
-* 2016: Best student research paper, 5th Annual International Conference on Cognitive and Behavioral Psychology, Singapore
-* 2015: 1st Prize, Poster competition, Oxford NDCN Annual Postgraduates Meeting
-* 2014: National Science Scholarship, Agency for Science, Technology and Research, Singapore
-* 2013: Lee Kuan Yew Gold Medal, Nanyang Technological University
-* 2013: Koh Boon Hwee Scholars' Award, Nanyang Technological University
-* 2013: Best player award (opposition), International Physicists' Tournament, Lausanne, Switzerland
-* 2013: Dean's List, Nanyang Technological University
-* 2012: College of Science Distinguished Undergraduate Award, Nanyang Technological University
-* 2012: Dean's List, Nanyang Technological University
-* 2012: Nanyang President Research Scholar, Nanyang Technological University
-* 2011: Dean's List, Nanyang Technological University
-* 2010: Dean's List, Nanyang Technological University  
 
 ### Key Publications
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
@@ -84,6 +63,25 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * 09/20: Dr. Ang awarded the NARSAD Young Investigator Award 
 * 06/19: Dr. Ang awarded Kaplen Fellowship in Depression at Harvard Medical School
 
-
+### Awards / Honours  
+* 2023: Inspiring Mentor Award, National University of Singapore High School
+* 2022: Inspiring Mentor Award, National University of Singapore High School
+* 2020: NARSAD Young Investigator Award, Brain and Behavior Research Foundation
+* 2019: Kaplen Fellowship, Harvard Medical School 
+* 2019: Livingston Award, Harvard Medical School
+* 2018: Dorris Family Pilot Translational Research Award, McLean Hospital
+* 2018: Letter of Commendation for Excellent D.Phil. Thesis, University of Oxford
+* 2016: Best student research paper, 5th Annual International Conference on Cognitive and Behavioral Psychology, Singapore
+* 2015: 1st Prize, Poster competition, Oxford NDCN Annual Postgraduates Meeting
+* 2014: National Science Scholarship, Agency for Science, Technology and Research, Singapore
+* 2013: Lee Kuan Yew Gold Medal, Nanyang Technological University
+* 2013: Koh Boon Hwee Scholars' Award, Nanyang Technological University
+* 2013: Best player award (opposition), International Physicists' Tournament, Lausanne, Switzerland
+* 2013: Dean's List, Nanyang Technological University
+* 2012: College of Science Distinguished Undergraduate Award, Nanyang Technological University
+* 2012: Dean's List, Nanyang Technological University
+* 2012: Nanyang President Research Scholar, Nanyang Technological University
+* 2011: Dean's List, Nanyang Technological University
+* 2010: Dean's List, Nanyang Technological University  
 
 
