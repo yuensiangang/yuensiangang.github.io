@@ -3,21 +3,23 @@
 [Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
 
 ### Publications
-* Cusin C., Dillon D.G., Belleau E., Normandin M.D., Petibon Y., El-Fakri G., Dhaynaut M., Hooker J., Kaptchuk T., McKee M., Hayden E., Meyer A., Jahan A., Origlio J., <b>Ang Y-S.</b>, Brunner D., Kang M., Long Y., Fava M., Pizzagalli D.A. (In Press). Novel multi-modal methodology to investigate placebo response in major depressive disorder. <i>Journal of Affective Disorders</i>.
+* Chen Y., Cusin C., Fava M., Pizzagalli D., <b>Ang Y-S.</b> (In Press). Exploring task design and heuristics interaction through a knowledge-free option generation task. <i>Scandinavian Journal of Psychology</i>.
 
-* Han M.X., Nadarajan R., Wang N., Kee M.Z.L., Lim S., Sagar Y.K., Chow B., Tan A.P., Cheon B.K., <b>Ang Y-S.</b>, Zhou J.H., Chen H.Y., Chong Y.S., Gluckman P.D., Meaney M.J., Law E.C. (In Press). Maternal depressive symptoms and risk for childhood depression: role of executive functions. <i>Journal of the American Academy of Child and Adolescent Psychiatry</i>.
+* Han M.X., Nadarajan R., Wang N., Kee M.Z.L., Lim S., Sagar Y.K., Chow B., Tan A.P., Cheon B.K., <b>Ang Y-S.</b>, Zhou J.H., Chen H.Y., Chong Y.S., Gluckman P.D., Meaney M.J., Law E.C. (In Press). Maternal depressive symptoms and risk for childhood depression: role of executive functions. <i>Journal of the American Academy of Child and Adolescent Psychiatry</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S0890856724019397)) 
 
-* Kangas B., <b>Ang Y-S.</b>, Short A.K., Baram T., Pizzagalli D.A. (In Press). Computational Modeling Differentiates Learning Rate from Reward Sensitivity Deficits Produced by Early Life Adversity in a Rodent Touchscreen Probabilistic Reward Task. <i>Biological Psychiatry: Global Open Science</i>. 
+* Cusin C., Dillon D.G., Belleau E., Normandin M.D., Petibon Y., El-Fakri G., Dhaynaut M., Hooker J., Kaptchuk T., McKee M., Hayden E., Meyer A., Jahan A., Origlio J., <b>Ang Y-S.</b>, Brunner D., Kang M., Long Y., Fava M., Pizzagalli D.A. (2025). Novel multi-modal methodology to investigate placebo response in major depressive disorder. <i>Journal of Affective Disorders</i>. ([Article](https://www.sciencedirect.com/science/article/abs/pii/S0165032724014605)) 
 
-* Gigli V., Castellano P., Ghezzi V., <b>Ang Y-S.</b>, Schettino M., Pizzagalli D.A., Ottaviani C. (In Press). Daily social isolation maps onto distinctive features of anhedonic behavior: A combined ecological and computational investigation. <i>Biological Psychiatry: Global Open Science</i>. 
+* Kangas B., <b>Ang Y-S.</b>, Short A.K., Baram T., Pizzagalli D.A. (2024). Computational Modeling Differentiates Learning Rate from Reward Sensitivity Deficits Produced by Early Life Adversity in a Rodent Touchscreen Probabilistic Reward Task. <i>Biological Psychiatry: Global Open Science</i>. ([Article]((https://www.sciencedirect.com/science/article/pii/S2667174324000752)) 
 
-* Dillon D.G., Belleau E.B., Origlio J., McKee M., Jahan A., Meyer A., Souther M.K., Brunner D., Kuhn M., <b>Ang Y-S.</b>, Cusin C., Fava M., Pizzagalli D.A. (In Press). Using drift diffusion and RL models to disentangle effects of depression on decision-making vs. learning in the probabilistic reward task. <i>Computational Psychiatry</i>.
+* Gigli V., Castellano P., Ghezzi V., <b>Ang Y-S.</b>, Schettino M., Pizzagalli D.A., Ottaviani C. (2024). Daily social isolation maps onto distinctive features of anhedonic behavior: A combined ecological and computational investigation. <i>Biological Psychiatry: Global Open Science</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S266717432400082X)) 
 
+* Dillon D.G., Belleau E.B., Origlio J., McKee M., Jahan A., Meyer A., Souther M.K., Brunner D., Kuhn M., <b>Ang Y-S.</b>, Cusin C., Fava M., Pizzagalli D.A. (2024). Using drift diffusion and RL models to disentangle effects of depression on decision-making vs. learning in the probabilistic reward task. <i>Computational Psychiatry</i>. ([Article](https://cpsyjournal.org/articles/10.5334/cpsy.108)) 
+
+* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. Cognitive effort-based decision making in Major Depressive Disorder. (2023). <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272))
+  
 * Anant N., Kaur D., Nadarajan R., Phua D.Y., Yap S.C., Gluckman P.D., Yap F., Chen H., Broekman B., Meaney M.J., <b>Ang Y-S.</b> (2023). Validating the Children's Depression Inventory-2: Results from the Growing Up in Singapore Towards Healthy Outcomes (GUSTO) study. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286197)) 
 
 * Castellano P., Gigli V., Schettino M., Ghezzi V., <b>Ang Y-S.</b>, Pizzagalli D.A., Ottaviani C. (2022). COVID-19 consequences on motivational functioning: an ecological investigation of the role of momentary gustative-olfactory sensitivity and tonic heart rate variability. <i>Neuroscience Applied</i>. ([Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9789470/)) 
-
-* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. Cognitive effort-based decision making in Major Depressive Disorder. (2022). <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
 
 * <b>Ang Y-S</b>, Cusin C., Petibon Y., Dillon D.G., Breiger M., Belleau E.L., Normandin M., Schroder H., Boyden S., Hayden E., Levine T., Jahan A., Meyer A.K., Kang, M-S. Brunner D., Gelda S.E., Hooker J., El Fakhri G., Fava M., Pizzagalli D.A. (2022). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/145/5/1854/6527662?redirectedFrom=fulltext&login=false)) 
 
