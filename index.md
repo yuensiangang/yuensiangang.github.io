@@ -1,9 +1,9 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tools](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 ### My Research
-I am an interdisciplinary scientist who fuses computational modeling, neuroscience, psychology and innovative technology to decode human behaviour. My work centers on understanding cognitive processes, ranging from decision-making and reinforcement learning to motivation and emotional regulation, and translating these insights into tangible tools for advancing human health and performance. 
+I am an interdisciplinary scientist who fuses computational modeling, neuroscience, psychology and innovative AI/ML technology to decode human behaviour. My work centers on understanding cognitive processes, ranging from decision-making and reinforcement learning to motivation and emotional regulation, and translating these insights into tangible tools for advancing human health and performance. 
 
-Building on these insights, our team is currently focusing on developing and validating a tech-augmented learning programme designed to enhance metacognition (ability to understand and regulate your own thinking processes) in adult learners. Together with experts in pedagogy, we are developing innovative digital tools that seamlessly blend rigorous scientific insights with practical applications --- with the goals of redefining adult education, fostering lifelong learning and empowering individuals to achieve their fullest potential.
+Building on these insights, our team is currently focusing on two main projects. The first is developing and validating a tech-augmented learning programme designed to enhance metacognition (ability to understand and regulate your own thinking processes) in adult learners. Together with experts in pedagogy, we are developing innovative digital tools that seamlessly blend rigorous scientific insights with practical applications --- with the goals of redefining adult education, fostering lifelong learning and empowering individuals to achieve their fullest potential. In the second project, we are working with clinicians to develop a novel multimodal autism screening and assessment tool that can be easily applied in both home and clinical settings.
 
 <!-- My research focuses on brain mechanisms involved in cognitive processes such as decision-making, reinforcement learning, motivation and emotional regulation. I study cognition in healthy people and investigate how disruptions in cognition arise in illnesses such as depression, as well as how we can optimize human health and potential by understanding their impact on learning outcomes, skills training and workforce productivity.
 
@@ -21,12 +21,18 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top in Class, cGPA 4.99/5.00), Nanyang Technological University
 
-### Teammates
-* Gladia Hotan, Research Fellow
-* Landy Lan, Engineer
-* Clare Tan, Engineer
-* Juanita Ong, Research Assistant
-* Sophia Koo, Research Assistant
+### Team
+* Dr. Gladia Hotan, Research Scientist
+* Mr. Landy Lan, Research Engineer
+* Ms. Clare Tan, Research Engineer
+* Ms. Juanita Ong, Research Assistant
+* Ms. Sophia Koo, Research Assistant
+
+### Students
+* Mr. Praveen Suthaharan (Currently doing PhD at Yale)
+* Ms. Yanlin Chen (Currently doing BSc at Carnegie Mellon)
+* Ms. Cindy J. Pang (Currently doing PhD at UCLA)
+* Ms. Nicole Frontero (Currently data analyst in private sector)
 
 ### Awards / Honours  
 * 2023: Inspiring Mentor Award, National University of Singapore High School
@@ -65,16 +71,14 @@ Reach me at angys@ihpc.a-star.edu.sg if you have any questions regarding my rese
 
 * <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938)) 
 
-<!-- ## News
-* 06/24: Dr. Ang and A/Prof Renee Tan awarded the MOE Science of Learning Grant for tech-augmented enhancement of metacognition in adult learners 
-* 04/23: Dr. Ang obtains three-year funding support to develop digital technologies for early screening of ASD in young children
+### News
+* 06/24: Dr. Ang and A/Prof Renee Tan (IAL) awarded the MOE Science of Learning Grant for tech-augmented enhancement of metacognition in adult learners 
+* 04/23: Dr. Ang, Dr. Wong (KKH) and Dr. Lee (Duke-NUS) awarded three-year funding support to develop digital technologies for early screening of ASD in young children
 * 04/23: Dr. Ang nominated for the Singapore National Academy of Sciences Young Scientist Award
-* 03/23: Dr. Ang selected to attend the prestigious Lindau Nobel Laureate Meeting 2023
-* 02/23: Dr. Ang given the Inspiring Research Mentor Award by NUS High School
-* 02/22: Dr. Ang given the Inspiring Research Mentor Award by NUS High School
+* 03/23: Dr. Ang selected to attend the Lindau Nobel Laureate Meeting 2023
 * 10/20: Our latest article in Biological Psychiatry gets highlighted as "Editor's Choice"  
-* 09/20: Dr. Ang awarded the NARSAD Young Investigator Grant to investigate the neurobiological mechanisms of cognitive motivational anhedonia in depression
-* 06/19: Dr. Ang honored as one of two Kaplen Fellows in Depression at Harvard Medical School --> 
+* 09/20: Dr. Ang awarded the NARSAD Young Investigator Award 
+* 06/19: Dr. Ang awarded Kaplen Fellowship in Depression at Harvard Medical School
 
 
 
