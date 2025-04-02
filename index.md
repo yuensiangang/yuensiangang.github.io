@@ -26,11 +26,11 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top in Class, cGPA 4.99/5.00), Nanyang Technological University
 
 ### Team
-* Dr. Gladia Hotan, Research Scientist
-* Mr. Landy Lan, Research Engineer
-* Ms. Clare Tan, Research Engineer
-* Ms. Juanita Ong, Research Assistant
-* Ms. Sophia Koo, Research Assistant
+* Dr. Gladia Hotan, Research Scientist (ASTAR)
+* Mr. Landy Lan, Research Engineer (ASTAR)
+* Ms. Clare Tan, Research Engineer (ASTAR)
+* Ms. Juanita Ong, Research Assistant (IAL)
+* Ms. Sophia Koo, Research Assistant (IAL)
 
 ### Mentored Students
 * Mr. Praveen Suthaharan (Currently doing PhD at Yale)
