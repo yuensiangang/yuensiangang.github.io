@@ -38,31 +38,6 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * Ms. Cindy J. Pang (Currently doing PhD at UCLA)
 * Ms. Nicole Frontero (Currently data analyst in private sector)
 
-### Key Publications
-[Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
-* <b>Ang Y-S.</b>, Cusin C., Petibon Y. et al. (2022). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/145/5/1854/6527662?redirectedFrom=fulltext&login=false)) 
-
-* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. (2023). Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
-
-* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))  
-
-* <b>Ang Y-S.</b>, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i> (Editor's Choice). ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
-  
-* <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O. et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
-
-* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G. et al., Pizzagalli D.A. (2020). An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/exploration-of-baseline-and-early-changes-in-neurocognitive-characteristics-as-predictors-of-treatment-response-to-bupropion-sertraline-and-placebo-in-the-embarc-clinical-trial/0A70C043039B2ACDA22E1994CA79DE3A))  
-
-* <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938)) 
-
-### News
-* 06/24: Dr. Ang and A/Prof Renee Tan (IAL) awarded the MOE Science of Learning Grant for tech-augmented enhancement of metacognition in adult learners 
-* 04/23: Dr. Ang, Dr. Wong (KKH) and Dr. Lee (Duke-NUS) awarded three-year funding support to develop digital technologies for early screening of ASD in young children
-* 04/23: Dr. Ang nominated for the Singapore National Academy of Sciences Young Scientist Award
-* 03/23: Dr. Ang selected to attend the Lindau Nobel Laureate Meeting 2023
-* 10/20: Our latest article in Biological Psychiatry gets highlighted as "Editor's Choice"  
-* 09/20: Dr. Ang awarded the NARSAD Young Investigator Award 
-* 06/19: Dr. Ang awarded Kaplen Fellowship in Depression at Harvard Medical School
-
 ### Awards / Honours  
 #### Mentoring
 * 2025: Friends of Beatty Award (Bronze), Beatty Secondary School
@@ -88,4 +63,28 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * 2011: Dean's List, Nanyang Technological University
 * 2010: Dean's List, Nanyang Technological University  
 
+### Key Publications
+[Google Scholar](https://scholar.google.co.uk/citations?user=jP_vtYMAAAAJ&hl=en)
+* <b>Ang Y-S.</b>, Cusin C., Petibon Y. et al. (2022). A multi-pronged investigation of option generation using depression, PET and modafinil. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/145/5/1854/6527662?redirectedFrom=fulltext&login=false)) 
+
+* <b>Ang Y-S.</b>, Gelda S., Pizzagalli D.A. (2023). Cognitive effort-based decision making in Major Depressive Disorder. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/cognitive-effortbased-decisionmaking-in-major-depressive-disorder/5A9BB668B20F5929B438E024E4C6A272)) 
+
+* <b>Ang Y-S.</b>, Frontero N., Belleau E., Pizzagalli D.A. (2020). Disentangling vulnerability, state and trait features of neurocognitive impairments in depression. <i>Brain</i>. ([Article](https://academic.oup.com/brain/article-abstract/143/12/3865/5974956?redirectedFrom=fulltext))  
+
+* <b>Ang Y-S.</b>, Kaiser R., Deckersbach T. et al., Pizzagalli D.A. (2020). Pretreatment reward sensitivity and frontostriatal resting-state functional connectivity are associated with response to bupropion after sertraline non-response. <i>Biological Psychiatry</i> (Editor's Choice). ([Article](https://www.sciencedirect.com/science/article/abs/pii/S000632232031516X))  
+  
+* <b>Ang Y-S.</b>\*, Manohar S.\*, Plant O. et al., Husain M. (2018). Dopamine modulates option generation for behaviour. <i>Current Biology</i>. ([Article](https://www.cell.com/current-biology/fulltext/S0960-9822(18)30427-5))  
+
+* <b>Ang Y-S.</b>, Bruder G.E., Keilp J.G. et al., Pizzagalli D.A. (2020). An exploration of baseline and early changes in neurocognitive characteristics as predictors of treatment response to bupropion, sertraline and placebo in the EMBARC Clinical Trial. <i>Psychological Medicine</i>. ([Article](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/exploration-of-baseline-and-early-changes-in-neurocognitive-characteristics-as-predictors-of-treatment-response-to-bupropion-sertraline-and-placebo-in-the-embarc-clinical-trial/0A70C043039B2ACDA22E1994CA79DE3A))  
+
+* <b>Ang Y-S.</b>\*, Lockwood P.\*, Apps M.A.J., Muhammed K., Husain M. (2017). Distinct subtypes of apathy revealed by the Apathy Motivation Index. <i>PLoS One</i>. ([Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169938)) 
+
+### News
+* 06/24: Dr. Ang and A/Prof Renee Tan (IAL) awarded the MOE Science of Learning Grant for tech-augmented enhancement of metacognition in adult learners 
+* 04/23: Dr. Ang, Dr. Wong (KKH) and Dr. Lee (Duke-NUS) awarded three-year funding support to develop digital technologies for early screening of ASD in young children
+* 04/23: Dr. Ang nominated for the Singapore National Academy of Sciences Young Scientist Award
+* 03/23: Dr. Ang selected to attend the Lindau Nobel Laureate Meeting 2023
+* 10/20: Our latest article in Biological Psychiatry gets highlighted as "Editor's Choice"  
+* 09/20: Dr. Ang awarded the NARSAD Young Investigator Award 
+* 06/19: Dr. Ang awarded Kaplen Fellowship in Depression at Harvard Medical School
 
