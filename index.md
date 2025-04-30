@@ -1,9 +1,9 @@
 [About](/index.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Research](/tools.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Publications](/publications.md)
 
 ### About me
-I am an interdisciplinary scientist driven by a deep curiosity about the human mind and a passion for translating scientific discovery into real-world solutions. My journey began with a foundation in physics, where I learned to model complex systems — a skill that would later become central to my efforts to decode the intricacies of human behaviour. This curiosity led me to pursue a DPhil and Postdoctoral training in Clinical and Computational Neuroscience, where I explored how brain function gives rise to cognition, emotion and behaviour — not just in theory, but in the lived experiences of people navigating health, learning and life.
+I am an interdisciplinary scientist driven by a deep curiosity about the human mind and a passion for translating scientific discovery into real-world solutions. My journey began with a foundation in physics, where I learned to model complex systems, a skill that would later become central to my efforts to decode the intricacies of human behaviour. This curiosity led me to pursue a DPhil and Postdoctoral training in Clinical and Computational Neuroscience, where I explored how brain function gives rise to cognition, emotion and behaviour not just in theory, but in the lived experiences of people navigating health, learning and life.
 
-Today, I lead research that blends neuroscience, psychology and cutting-edge AI/ML technologies to understand — and enhance — the human experience. My work centres on the science of cognitive processes: how we learn, decide, adapt, and regulate ourselves in an ever-changing world. But my ultimate goal is to move beyond understanding — to build tools and technologies that improve health outcomes, support lifelong learning and unlock human potential at scale. At the core of my team's mission is a commitment to scientific rigour, real-world relevance and human-centred innovation. Whether it’s empowering adults to become better learners through metacognitive training, or reimagining developmental screening for autism to make it more accessible and equitable — we aim to turn insights into impact.
+Today, I lead research that blends neuroscience, psychology and cutting-edge AI/ML technologies to understand and enhance the human experience. My work centres on the science of cognitive processes: how we learn, decide, adapt and regulate ourselves in an ever-changing world. But my ultimate goal is to move beyond understanding and build tools and technologies that improve health outcomes, support lifelong learning and unlock human potential at scale. At the core of my team's mission is a commitment to scientific rigour, real-world relevance and human-centred innovation. Whether it’s empowering adults to become better learners through metacognitive training, or reimagining developmental screening for autism to make it more accessible and equitable, we aim to turn insights into impact.
 
 <!-- The first is developing and validating a tech-augmented learning programme designed to enhance metacognition (ability to understand and regulate your own thinking processes) in adult learners. Together with experts in pedagogy, we are developing innovative digital tools that seamlessly blend rigorous scientific insights with practical applications, with the goals of redefining adult education, fostering lifelong learning and empowering individuals to achieve their fullest potential. 
 
@@ -13,7 +13,7 @@ In the second project, we are working with clinicians to develop and validate a 
 
 To do that, I have carefully designed laboratory-based computerized tests and mobile apps to specifically measure the cognitive process of interest in humans, and developed computational models that instantiated algorithmic hypotheses about how humans perform the test and can help better understand variability in human behaviour at the individual level. Precise mathematical algorithms were used to find parameter values that best capture each individual’s behavioral pattern during the computerized tests. These parameters were in turn mapped onto the brain with pharmacological challenge and brain imaging techniques, which will help us understand how disrupted cognition might arise in disease. -->
   
-Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current projects — from metacognitive learning platforms to scalable digital tools for developmental screening.
+Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current projects, from metacognitive learning platforms to scalable digital tools for developmental screening.
 
 ### Experience
 * 2024 - present: &nbsp;&nbsp;    Visiting Scientist, Research Division, Institute of Adult Learning, Singapore
@@ -23,12 +23,12 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 ### Education
 * 2018 - 2020: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Postdoctoral Fellow, Harvard Medical School
 * 2014 - 2018: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D.Phil. in Clinical Neurosciences, University of Oxford 
-* 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top in Class, cGPA 4.99/5.00), Nanyang Technological University
+* 2009 - 2013: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Sc. in Applied Physics (Top in Class, cGPA 4.99/5.00, Lee Kuan Yew Gold Medal, Koh Boon Hwee Scholar), Nanyang Technological University
 
 ### Team
-* Dr. Gladia Hotan, Research Scientist (ASTAR)
-* Mr. Landy Lan, Research Engineer (ASTAR)
-* Ms. Clare Tan, Research Engineer (ASTAR)
+* Dr. Gladia Hotan, Research Scientist (A*STAR)
+* Mr. Landy Lan, Research Engineer (A*STAR)
+* Ms. Clare Tan, Research Engineer (A*STAR)
 * Ms. Juanita Ong, Research Assistant (IAL)
 * Ms. Sophia Koo, Research Assistant (IAL)
 
@@ -64,8 +64,11 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * 06/19: Dr. Ang awarded Kaplen Fellowship in Depression at Harvard Medical School
 
 ### Awards / Honours  
+#### Mentoring
+* 2025: Friends of Beatty Award (Bronze), Beatty Secondary School
 * 2023: Inspiring Mentor Award, National University of Singapore High School
 * 2022: Inspiring Mentor Award, National University of Singapore High School
+#### Scientific
 * 2020: NARSAD Young Investigator Award, Brain and Behavior Research Foundation
 * 2019: Kaplen Fellowship, Harvard Medical School 
 * 2019: Livingston Award, Harvard Medical School
@@ -73,6 +76,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * 2018: Letter of Commendation for Excellent D.Phil. Thesis, University of Oxford
 * 2016: Best student research paper, 5th Annual International Conference on Cognitive and Behavioral Psychology, Singapore
 * 2015: 1st Prize, Poster competition, Oxford NDCN Annual Postgraduates Meeting
+#### Academic
 * 2014: National Science Scholarship, Agency for Science, Technology and Research, Singapore
 * 2013: Lee Kuan Yew Gold Medal, Nanyang Technological University
 * 2013: Koh Boon Hwee Scholars' Award, Nanyang Technological University
