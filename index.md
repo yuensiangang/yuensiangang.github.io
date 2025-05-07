@@ -43,6 +43,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * 2025: Friends of Beatty Award (Bronze), Beatty Secondary School
 * 2023: Inspiring Mentor Award, National University of Singapore High School
 * 2022: Inspiring Mentor Award, National University of Singapore High School
+
 #### Scientific
 * 2020: NARSAD Young Investigator Award, Brain and Behavior Research Foundation
 * 2019: Kaplen Fellowship, Harvard Medical School 
@@ -51,6 +52,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * 2018: Letter of Commendation for Excellent D.Phil. Thesis, University of Oxford
 * 2016: Best student research paper, 5th Annual International Conference on Cognitive and Behavioral Psychology, Singapore
 * 2015: 1st Prize, Poster competition, Oxford NDCN Annual Postgraduates Meeting
+
 #### Academic
 * 2014: National Science Scholarship, Agency for Science, Technology and Research, Singapore
 * 2013: Lee Kuan Yew Gold Medal, Nanyang Technological University
