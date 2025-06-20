@@ -37,6 +37,7 @@ Reach me at angys@ihpc.a-star.edu.sg if you want to learn more about our current
 * Ms. Yanlin Chen (Currently doing BSc at Carnegie Mellon)
 * Ms. Cindy J. Pang (Currently doing PhD at UCLA)
 * Ms. Nicole Frontero (Currently data analyst in private sector)
+* Mr. Loy Xingqi (Currently Clinical Psychologist in Singapore)
 
 ### Awards / Honours  
 #### Mentoring
