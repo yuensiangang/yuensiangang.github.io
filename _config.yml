@@ -26,7 +26,7 @@ color_scheme: light        # light | dark
 
 # Right-side top links (edit/remove as you like)
 aux_links:
-  "Download CV (PDF)": "/assets/cv/Ang_YuenSiang_CV.pdf"
+  #"Download CV (PDF)": "/assets/cv/Ang_YuenSiang_CV.pdf"
   "Google Scholar": "https://scholar.google.com/citations?user=jP_vtYMAAAAJ&hl=en"
 
 # (Optional) If you later add collections like _people or _instruments,
