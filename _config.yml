@@ -1,4 +1,34 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 
-title: Dr. Yuen-Siang Ang
-description: Principal Investigator, Institute of High Performance Computing, A*STAR 
+#title: Dr. Yuen-Siang Ang
+#description: Principal Investigator, Institute of High Performance Computing, A*STAR 
+
+# --- Basic site settings ---
+title: ATLAS Lab
+description: Assessment Technologies for Learning & Affective Science
+url: https://yuensiangang.github.io
+baseurl: ""       
+
+# --- Use the Just the Docs theme (no local install needed) ---
+remote_theme: just-the-docs/just-the-docs
+
+# --- GitHub Pages-compatible plugins ---
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# --- Just the Docs options ---
+search_enabled: true
+heading_anchors: true
+color_scheme: light        # light | dark
+
+# Right-side top links (edit/remove as you like)
+aux_links:
+  "Download CV (PDF)": "/assets/cv/Ang_YuenSiang_CV.pdf"
+  "Google Scholar": "https://scholar.google.com/citations?user=jP_vtYMAAAAJ&hl=en"
+
+# (Optional) If you later add collections like _people or _instruments,
+# define them here. We'll keep this empty for now to stay simple.
+collections: {}
