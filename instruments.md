@@ -11,7 +11,10 @@ What it measures: apathy across three domains (behavioural activation, social mo
 Use cases: apathy profiling, longitudinal change, intervention targeting.
 
 **Resources:** 
-[Paper (DOI)](https://doi.org/10.1371/journal.pone.0169938) .
+[Original paper (DOI)](https://doi.org/10.1371/journal.pone.0169938) .
+[Caregiver version (DOI)](https://doi.org/https://doi.org/10.1111/jnp.12262) .
+[Chinese version (DOI)](https://doi.org/https://doi.org/10.3758/s13428-025-02686-3) .
+[French version (DOI)](https://doi.org/https://doi.org/10.3389/fpsyg.2023.1252965) .
 [Request use / translation](mailto:ang_yuen_siang@a-star.edu.sg?subject=AMI%20request)
 
 ---
