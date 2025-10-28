@@ -40,5 +40,5 @@ Available on: Android.
 Use cases: effort-based decision making, education, psychiatry.
 
 **Resources:** 
-[Paper (DOI)](https://doi.org/your-doi-here) · 
+[Psychological Medicine Paper (DOI)](https://doi.org/your-doi-here) · 
 [Request use](mailto:ang_yuen_siang@a-star.edu.sg?subject=CMT%20request)
