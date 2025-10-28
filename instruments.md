@@ -27,7 +27,8 @@ What it measures: spontaneous action generation measured by three objective metr
 Use cases: motor creativity, pharmacology/mechanisms, learning research.
 
 **Resources:** 
-[Paper (DOI)](https://doi.org/https://doi.org/10.1016/j.cub.2018.03.069) .
+[Current Biology Paper (DOI)](https://doi.org/10.1016/j.cub.2018.03.069) .
+[Brain Paper (DOI)](https://doi.org/10.1093/brain/awab429) .
 [Request use](mailto:ang_yuen_siang@a-star.edu.sg?subject=OGT%20request)
 
 ---
