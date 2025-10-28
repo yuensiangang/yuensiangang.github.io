@@ -17,6 +17,7 @@ Use cases: apathy profiling, longitudinal change, intervention targeting.
 [Chinese version (DOI)](https://doi.org/10.3758/s13428-025-02686-3) .
 [French version (DOI)](https://doi.org/10.3389/fpsyg.2023.1252965) .
 [Italian version (DOI)](https://doi.org/10.1007/s10072-023-06774-0) .
+[Dutch version (DOI)](https://doi.org/10.3390/jcm10112447) .
 [Request use / translation](mailto:ang_yuen_siang@a-star.edu.sg?subject=AMI%20request)
 
 ---
