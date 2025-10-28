@@ -24,6 +24,7 @@ Use cases: apathy profiling, longitudinal change, intervention targeting.
 
 ## Option Generation Task (OGT)
 What it measures: spontaneous action generation measured by three objective metrics (fluency, uniqueness, diversity).  
+Available on: Android.  
 Use cases: motor creativity, pharmacology/mechanisms, learning research.
 
 **Resources:** 
@@ -35,6 +36,7 @@ Use cases: motor creativity, pharmacology/mechanisms, learning research.
 
 ## Cognitive Motivation Task (CMT)
 What it measures: willingness to invest cognitive effort for reward (model-based parameters).  
+Available on: Android.  
 Use cases: effort-based decision making, education, psychiatry.
 
 **Resources:** 
