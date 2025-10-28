@@ -7,8 +7,8 @@ has_children: true
 # Instruments
 
 ## Apathy-Motivation Index (AMI)
-What it measures: Apathy across three domains (behavioural activation, social motivation, emotional sensitivity).   
-Possible use cases: apathy profiling, longitudinal change, intervention targeting.
+What it measures: apathy across three domains (behavioural activation, social motivation, emotional sensitivity).   
+Use cases: apathy profiling, longitudinal change, intervention targeting.
 
 **Resources:** 
 [Paper (DOI)](https://doi.org/10.1371/journal.pone.0169938) .
@@ -17,13 +17,11 @@ Possible use cases: apathy profiling, longitudinal change, intervention targetin
 ---
 
 ## Option Generation Task (OGT)
-What it measures: spontaneous action generation (fluency, uniqueness, diversity).  
-Use cases: creativity/option-set size, pharmacology/mechanisms, learning research.
+What it measures: spontaneous action generation measured by three objective metrics (fluency, uniqueness, diversity).  
+Use cases: motor creativity, pharmacology/mechanisms, learning research.
 
 **Resources:** 
-[Paper (DOI)](https://doi.org/your-doi-here) · 
-[Analysis notebook](https://github.com/youruser/ogt-notebook) · 
-[Demo video](/assets/video/ogt_demo.mp4)
+[Paper (DOI)](https://doi.org/https://doi.org/10.1016/j.cub.2018.03.069) .
 
 ---
 
