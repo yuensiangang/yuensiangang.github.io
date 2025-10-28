@@ -22,6 +22,7 @@ Use cases: motor creativity, pharmacology/mechanisms, learning research.
 
 **Resources:** 
 [Paper (DOI)](https://doi.org/https://doi.org/10.1016/j.cub.2018.03.069) .
+[Request use](mailto:ang_yuen_siang@a-star.edu.sg?subject=OGT%20request)
 
 ---
 
@@ -31,5 +32,4 @@ Use cases: effort-based decision making, education, psychiatry.
 
 **Resources:** 
 [Paper (DOI)](https://doi.org/your-doi-here) · 
-[Task app (APK/TestFlight)](/downloads/cmt_app) · 
-[Model spec (PDF)](/assets/docs/cmt_model_spec.pdf)
+[Request use](mailto:ang_yuen_siang@a-star.edu.sg?subject=CMT%20request)
