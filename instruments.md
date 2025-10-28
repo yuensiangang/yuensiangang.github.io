@@ -7,7 +7,7 @@ has_children: true
 # Instruments
 
 ## Apathy-Motivation Index (AMI)
-What it measures: Apathy across three domains (behavioural activation, social motivation, emotional sensitivity)
+What it measures: Apathy across three domains (behavioural activation, social motivation, emotional sensitivity). 
 Possible use cases: apathy profiling, longitudinal change, intervention targeting.
 
 **Resources:** 
