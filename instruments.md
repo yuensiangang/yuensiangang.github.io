@@ -14,8 +14,9 @@ Use cases: apathy profiling, longitudinal change, intervention targeting.
 [Original paper (DOI)](https://doi.org/10.1371/journal.pone.0169938) .
 [Caregiver version (DOI)](https://doi.org/10.1111/jnp.12262) .
 [Child version (DOI)](https://doi.org/10.3758/s13428-023-02184-4) .
-[Chinese version (DOI)](https://doi.org/https://doi.org/10.3758/s13428-025-02686-3) .
-[French version (DOI)](https://doi.org/https://doi.org/10.3389/fpsyg.2023.1252965) .
+[Chinese version (DOI)](https://doi.org/10.3758/s13428-025-02686-3) .
+[French version (DOI)](https://doi.org/10.3389/fpsyg.2023.1252965) .
+[Italian version (DOI)](https://doi.org/10.1007/s10072-023-06774-0) .
 [Request use / translation](mailto:ang_yuen_siang@a-star.edu.sg?subject=AMI%20request)
 
 ---
