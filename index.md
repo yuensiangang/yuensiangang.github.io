@@ -12,5 +12,4 @@ nav_order: 1
 - See our [Instruments](instruments.md)
 - Browse [Publications](publications.md)
 - Meet the [People](people.md)
-- Read [News](news.md)
 - [Contact](contact.md) the lab
