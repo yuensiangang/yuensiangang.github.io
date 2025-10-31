@@ -5,6 +5,8 @@ nav_order: 6
 
 # Contact
 
+We are constantly looking for talented students to join us, do reach out if you are interested. 
+
 General enquiries: ang_yuen_siang@a-star.edu.sg 
 
 **Address**  
