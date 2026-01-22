@@ -18,6 +18,7 @@ Family Translational Award, Brain & Behaviour Research Foundation Young Investig
 - Ms Clare Tan (Lead Engineer, IHPC)
 - Ms Juanita Ong (Research Assistant, IAL)
 - Mr Praveen Suthaharan (co-supervised PhD student, Yale University) 
+- Ms Lim Shuping (co-supervised PhD student, National University of Singapore)
 
 ## Alumni
 - Ms Yanlin Chen (Research intern, now doing BSc Computer Science at Carnegie Mellon University)
