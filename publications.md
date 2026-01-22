@@ -5,7 +5,7 @@ nav_order: 4
 
 # Publications
 
-* Chen Y., <b>Ang Y-S.</b>, Cusin C., Fava M., Pizzagalli D. (2025). Exploring task design and heuristics interaction through a knowledge-free option generation task. <i>Scandinavian Journal of Psychology</i>. ([Article](https://pubmed.ncbi.nlm.nih.gov/39419473/))
+* Chen Y., <b>Ang Y-S.</b>, Cusin C., Fava M., Pizzagalli D. (2025). Exploring task design and heuristics interaction through a knowledge-free option generation task. <i>Scandinavian Journal of Psychology</i>. ([Article](https://pubmed.ncbi.nlm.nih.gov/40166816/))
 
 * Han M.X., Nadarajan R., Wang N., Kee M.Z.L., Lim S., Sagar Y.K., Chow B., Tan A.P., Cheon B.K., <b>Ang Y-S.</b>, Zhou J.H., Chen H.Y., Chong Y.S., Gluckman P.D., Meaney M.J., Law E.C. (2025). Maternal depressive symptoms and risk for childhood depression: role of executive functions. <i>Journal of the American Academy of Child and Adolescent Psychiatry</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S0890856724019397)) 
 
