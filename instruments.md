@@ -42,3 +42,10 @@ Use cases: effort-based decision making, education, psychiatry.
 **Resources:** 
 [Psychological Medicine Paper (DOI)](https://doi.org/your-doi-here) · 
 [Request use](mailto:ang_yuen_siang@a-star.edu.sg?subject=CMT%20request)
+
+---
+
+## Eyegaze Data Collection App 
+What it is: Pediatric eyegaze app that captures synchronized camera frames and stimulus metadata during a structured on-screen fixation protocol along with structured export  
+Available on: Android. 
+Use cases: input system for precise eyetracking modelling & coarse gaze classification
