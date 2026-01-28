@@ -4,6 +4,7 @@ nav_order: 4
 ---
 
 # Publications
+* Sapperstein M., Thai M., <b>Ang Y-S.</b>, Pizzagalli D. (In Press). Anhedonia and Altered Reward Responsiveness: Relations to Psychosocial Functioning. <i>Journal of Mood & Anxiety Disorders</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S2950004426000040))
 
 * Chen Y., <b>Ang Y-S.</b>, Cusin C., Fava M., Pizzagalli D. (2025). Exploring task design and heuristics interaction through a knowledge-free option generation task. <i>Scandinavian Journal of Psychology</i>. ([Article](https://pubmed.ncbi.nlm.nih.gov/40166816/))
 
