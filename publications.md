@@ -4,6 +4,8 @@ nav_order: 4
 ---
 
 # Publications
+* Zhao S., Ye R., Sen A., Scholl J., Lockwood P., Cui L., Li M., Karatas K., <b>Ang Y-S.</b>, Little S.J., Harmer C.J., He K., Li Q., Wang K., Apps M.A.J., Manohar S.G., Husain M. (In Press). On the relationships between Apathy, Depression and Anhedonia. <i>Journal of Neurology, Neurosurgery and Psychiatry</i>.
+
 * Sapperstein M., Thai M., <b>Ang Y-S.</b>, Pizzagalli D. (In Press). Anhedonia and Altered Reward Responsiveness: Relations to Psychosocial Functioning. <i>Journal of Mood & Anxiety Disorders</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S2950004426000040))
 
 * Suthaharan P., Castiello S., <b>Ang, Y-S.</b>, Corlett P. (2026). Self-Reflection Protects Behavior from Volatile Beliefs Linked to Paranoia. <i>Computational Psychiatry</i> ([Article](https://doi.org/10.5334/cpsy.150))
