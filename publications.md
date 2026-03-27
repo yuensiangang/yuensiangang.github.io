@@ -4,6 +4,8 @@ nav_order: 4
 ---
 
 # Publications
+* Zhao S., Ye R., Tang Q-Y., Attaallah B., Toniolo S., Saleh Y., Rouse M.A., Garrard P., Broulidakis M.J., Thompson S., Manohar S.G., Irani S.R., <b>Ang Y-S.</b>, Lockwood P., Apps M.A.J., Hu P., Wang K., Rowe J.B., Le Heron C., Husain M. (In Press). The social dimension of apathy: Evidence for a distinct domain from 11,243 individuals across health and neurocognitive disorders. <i>Translational Psychiatry</i>. 
+
 * Zhao S., Ye R., Sen A., Scholl J., Lockwood P., Cui L., Li M., Karatas K., <b>Ang Y-S.</b>, Little S.J., Harmer C.J., He K., Li Q., Wang K., Apps M.A.J., Manohar S.G., Husain M. (In Press). On the relationships between Apathy, Depression and Anhedonia. <i>Journal of Neurology, Neurosurgery and Psychiatry</i>.
 
 * Sapperstein M., Thai M., <b>Ang Y-S.</b>, Pizzagalli D. (In Press). Anhedonia and Altered Reward Responsiveness: Relations to Psychosocial Functioning. <i>Journal of Mood & Anxiety Disorders</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S2950004426000040))
