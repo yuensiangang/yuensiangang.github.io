@@ -8,7 +8,7 @@ nav_order: 5
 ## Lead
 **Dr. Yuen-Siang Ang**  
 Yuen-Siang Ang, D.Phil is Senior Scientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR). His work focuses on design and multimodal validation of behavioural and digital assessment instruments that improve learning and health, spanning metacognition, 
-motivation and developmental screening.  
+motivation and developmental screening. <br>
 Yuen graduated top of his class (cGPA: 4.99/5.00) with a BSc in Physics from Nanyang Technological University (Lee Kuan Yew Gold Medal, Koh Boon Hwee Scholars), and went on to complete his DPhil in Clinical Neurosciences at the University of Oxford followed by his postdoc fellowship at Harvard Medical School. His work has been supported by the ASTAR National Science Scholarship, Harvard Medical School Kaplen Fellowship, Harvard Medical School Livingston Award, Dorris 
 Family Translational Award, Brain & Behaviour Research Foundation Young Investigator Award, Singapore Ministry of Education Science of Learning grant, Duke-NUS Autism Research Fund. 
  
