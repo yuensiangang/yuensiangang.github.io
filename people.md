@@ -7,10 +7,14 @@ nav_order: 5
 
 ## Lead
 **Dr. Yuen-Siang Ang**  
-Yuen-Siang Ang, D.Phil is Senior Scientist at the Institute of High Performance Computing (IHPC), Agency for Science, Technology and Research (A*STAR). His work focuses on design and multimodal validation of behavioural and digital assessment instruments that improve learning and health, spanning metacognition, motivation and developmental screening.
-<br>Yuen graduated top of his class (cGPA: 4.99/5.00) with a BSc in Physics from Nanyang Technological University (Lee Kuan Yew Gold Medal, Koh Boon Hwee Scholars), and went on to complete his DPhil in Clinical Neurosciences at the University of Oxford followed by his postdoc fellowship at Harvard Medical School. His work has been supported by the ASTAR National Science Scholarship, Harvard Medical School Kaplen Fellowship, Harvard Medical School Livingston Award, Dorris 
-Family Translational Award, Brain & Behaviour Research Foundation Young Investigator Award, Singapore Ministry of Education Science of Learning grant, Duke-NUS Autism Research Fund. 
- 
+Yuen-Siang Ang, D.Phil., is Senior Scientist at the Agency for Science, Technology and Research (A*STAR) and Visiting Scientist at the Institute for Adult Learning (IAL), Singapore. He leads ATLAS Group (Assessment Technologies for Learning & Affective Science), an interdisciplinary research programme focused on understanding, measuring, and improving how people learn, decide, and adapt in real-world settings.
+
+His work sits at the intersection of behavioural science, cognitive neuroscience, adult learning, digital intervention, and assessment innovation. Current areas of focus include metacognition and self-regulated learning in adults, digital and AI-enabled learning support, developmental digital screening, motivation and apathy, decision-making, and translational measurement.
+
+Yuen graduated top of his class (cGPA: 4.99/5.00) with a B.Sc. in Applied Physics from Nanyang Technological University, where he received the Lee Kuan Yew Gold Medal and Koh Boon Hwee Scholars’ Award. He went on to complete his D.Phil. in Clinical Neurosciences at the University of Oxford, followed by postdoctoral training at Harvard Medical School.
+
+His research has been supported by the A*STAR National Science Scholarship, Harvard Medical School Kaplen Fellowship, Harvard Medical School Livingston Award, Dorris Family Translational Award, Brain & Behavior Research Foundation Young Investigator Award, Singapore Ministry of Education Science of Learning Grant, Duke-NUS Autism Research Fund, and the Workforce Development Applied Research Fund.
+
 ## Team
 - Dr.  Gladia Chork Hotan (Scientist, IHPC)
 - Mr Landy Lan (Lead Engineer, IHPC)
