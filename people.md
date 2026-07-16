@@ -5,9 +5,9 @@ nav_order: 5
 
 # People
 
-## Lead
+## Principal Investigator
 **Dr. Yuen-Siang Ang**  
-Yuen-Siang Ang, D.Phil., is Senior Scientist at the Agency for Science, Technology and Research (A*STAR) and Visiting Scientist at the Institute for Adult Learning (IAL), Singapore. He leads ATLAS Group (Assessment Technologies for Learning & Affective Science), an interdisciplinary research programme focused on understanding, measuring, and improving how people learn, decide, and adapt in real-world settings.
+Yuen-Siang Ang, D.Phil., is incoming Assistant Professor at the Singapore Institute of Technology (SIT). He leads ATLAS Group (Assessment Technologies for Learning & Affective Science), an interdisciplinary research programme focused on understanding, measuring, and improving how people learn, decide, and adapt in real-world settings.
 
 His work sits at the intersection of behavioural science, cognitive neuroscience, adult learning, digital intervention, and assessment innovation. Current areas of focus include metacognition and self-regulated learning in adults, digital and AI-enabled learning support, developmental digital screening, motivation and apathy, decision-making, and translational measurement.
 
