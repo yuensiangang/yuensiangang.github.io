@@ -4,11 +4,13 @@ nav_order: 4
 ---
 
 # Publications
-* Zhao S., Ye R., Tang Q-Y., Attaallah B., Toniolo S., Saleh Y., Rouse M.A., Garrard P., Broulidakis M.J., Thompson S., Manohar S.G., Irani S.R., <b>Ang Y-S.</b>, Lockwood P., Apps M.A.J., Hu P., Wang K., Rowe J.B., Le Heron C., Husain M. (In Press). The social dimension of apathy: Evidence for a distinct domain from 11,243 individuals across health and neurocognitive disorders. <i>Translational Psychiatry</i>. 
+* Zhao S., Ye R., Tang Q-Y., Attaallah B., Toniolo S., Saleh Y., Rouse M.A., Garrard P., Broulidakis M.J., Thompson S., Manohar S.G., Irani S.R., <b>Ang Y-S.</b>, Lockwood P., Apps M.A.J., Hu P., Wang K., Rowe J.B., Le Heron C., Husain M. (2026). The social dimension of apathy: Evidence for a distinct domain from 11,243 individuals across health and neurocognitive disorders. <i>Translational Psychiatry</i>. ([Article](https://www.nature.com/articles/s41398-026-04023-4))
 
-* Zhao S., Ye R., Sen A., Scholl J., Lockwood P., Cui L., Li M., Karatas K., <b>Ang Y-S.</b>, Little S.J., Harmer C.J., He K., Li Q., Wang K., Apps M.A.J., Manohar S.G., Husain M. (In Press). On the relationships between Apathy, Depression and Anhedonia. <i>Journal of Neurology, Neurosurgery and Psychiatry</i>.
+* Zhao S., Ye R., Sen A., Scholl J., Lockwood P., Cui L., Li M., Karatas K., <b>Ang Y-S.</b>, Little S.J., Harmer C.J., He K., Li Q., Wang K., Apps M.A.J., Manohar S.G., Husain M. (2026). On the relationships between Apathy, Depression and Anhedonia. <i>Journal of Neurology, Neurosurgery and Psychiatry</i>. ([Article](https://jnnp.bmj.com/content/jnnp/early/2026/03/27/jnnp-2025-337245.full.pdf))
 
-* Sapperstein M., Thai M., <b>Ang Y-S.</b>, Pizzagalli D. (In Press). Anhedonia and Altered Reward Responsiveness: Relations to Psychosocial Functioning. <i>Journal of Mood & Anxiety Disorders</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S2950004426000040))
+* Schettino M., Mastrocesare A., Bomarsi D., Ceccarelli I., <b>Ang Y.-S.</b>, Pizzagalli D. A., Ottaviani C., Fagioli, S. (2026). Behavioral and electrophysiological evidence of reward processing deficits in repetitive negative thinking: Implications for depression. <i>Psychological medicine</i>. ([Article](https://pubmed.ncbi.nlm.nih.gov/41531206/))
+
+* Sapperstein M., Thai M., <b>Ang Y-S.</b>, Pizzagalli D. (2026). Anhedonia and Altered Reward Responsiveness: Relations to Psychosocial Functioning. <i>Journal of Mood & Anxiety Disorders</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S2950004426000040))
 
 * Suthaharan P., Castiello S., <b>Ang, Y-S.</b>, Corlett P. (2026). Self-Reflection Protects Behavior from Volatile Beliefs Linked to Paranoia. <i>Computational Psychiatry</i> ([Article](https://doi.org/10.5334/cpsy.150))
 
@@ -18,7 +20,7 @@ nav_order: 4
 
 * Cusin C., Dillon D.G., Belleau E., Normandin M.D., Petibon Y., El-Fakri G., Dhaynaut M., Hooker J., Kaptchuk T., McKee M., Hayden E., Meyer A., Jahan A., Origlio J., <b>Ang Y-S.</b>, Brunner D., Kang M., Long Y., Fava M., Pizzagalli D.A. (2025). Novel multi-modal methodology to investigate placebo response in major depressive disorder. <i>Journal of Affective Disorders</i>. ([Article](https://www.sciencedirect.com/science/article/abs/pii/S0165032724014605)) 
 
-* Kangas B., <b>Ang Y-S.</b>, Short A.K., Baram T., Pizzagalli D.A. (2024). Computational Modeling Differentiates Learning Rate from Reward Sensitivity Deficits Produced by Early Life Adversity in a Rodent Touchscreen Probabilistic Reward Task. <i>Biological Psychiatry: Global Open Science</i>. ([Article]((https://www.sciencedirect.com/science/article/pii/S2667174324000752)) 
+* Kangas B., <b>Ang Y-S.</b>, Short A.K., Baram T., Pizzagalli D.A. (2024). Computational Modeling Differentiates Learning Rate from Reward Sensitivity Deficits Produced by Early Life Adversity in a Rodent Touchscreen Probabilistic Reward Task. <i>Biological Psychiatry: Global Open Science</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S2667174324000752)) 
 
 * Gigli V., Castellano P., Ghezzi V., <b>Ang Y-S.</b>, Schettino M., Pizzagalli D.A., Ottaviani C. (2024). Daily social isolation maps onto distinctive features of anhedonic behavior: A combined ecological and computational investigation. <i>Biological Psychiatry: Global Open Science</i>. ([Article](https://www.sciencedirect.com/science/article/pii/S266717432400082X)) 
 
