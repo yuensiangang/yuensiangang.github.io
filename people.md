@@ -15,8 +15,8 @@ Yuen graduated top of his class (cGPA: 4.99/5.00) with a B.Sc. in Applied Physic
 
 His research has been supported by the A*STAR National Science Scholarship, Harvard Medical School Kaplen Fellowship, Harvard Medical School Livingston Award, Dorris Family Translational Award, Brain & Behavior Research Foundation Young Investigator Award, Singapore Ministry of Education Science of Learning Grant, Duke-NUS Autism Research Fund, and the Workforce Development Applied Research Fund.
 
-## Team (to be updated)
-I am hiring research fellows and research assistants. Please reach out to me directly if you're interested to find out more.
+## Team
+I am currently hiring research fellows and research assistants. Please reach out to me directly if you're interested to find out more.
 - Mr Praveen Suthaharan (PhD student, Yale University) 
 - Ms Lim Shuping (PhD student, National University of Singapore)
 - Mr Brandon Yeo (Intern, National University of Singapore)
