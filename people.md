@@ -7,7 +7,7 @@ nav_order: 5
 
 ## Principal Investigator
 **Dr. Yuen-Siang Ang**  
-Yuen-Siang Ang, D.Phil., is incoming Assistant Professor at the Singapore Institute of Technology (SIT). He leads ATLAS Group (Assessment Technologies for Learning & Affective Science), an interdisciplinary research programme focused on understanding, measuring, and improving how people learn, decide, and adapt in real-world settings.
+Yuen-Siang Ang, D.Phil., is incoming Assistant Professor at the Singapore Institute of Technology (SIT)(Starting 1 Sept 2026). He leads ATLAS Group (Assessment Technologies for Learning & Affective Science), an interdisciplinary research programme focused on understanding, measuring, and improving how people learn, decide, and adapt in real-world settings.
 
 His work sits at the intersection of behavioural science, cognitive neuroscience, adult learning, digital intervention, and assessment innovation. Current areas of focus include metacognition and self-regulated learning in adults, digital and AI-enabled learning support, developmental digital screening, motivation and apathy, decision-making, and translational measurement.
 
@@ -15,11 +15,8 @@ Yuen graduated top of his class (cGPA: 4.99/5.00) with a B.Sc. in Applied Physic
 
 His research has been supported by the A*STAR National Science Scholarship, Harvard Medical School Kaplen Fellowship, Harvard Medical School Livingston Award, Dorris Family Translational Award, Brain & Behavior Research Foundation Young Investigator Award, Singapore Ministry of Education Science of Learning Grant, Duke-NUS Autism Research Fund, and the Workforce Development Applied Research Fund.
 
-## Team
-- Dr.  Gladia Chork Hotan (Scientist, IHPC)
-- Mr Landy Lan (Lead Engineer, IHPC)
-- Ms Clare Tan (Lead Engineer, IHPC)
-- Ms Juanita Ong (Research Assistant, IAL)
+## Team (to be updated)
+I am hiring research fellows and research assistants. Please reach out to me directly if you're interested to find out more.
 - Mr Praveen Suthaharan (PhD student, Yale University) 
 - Ms Lim Shuping (PhD student, National University of Singapore)
 - Mr Brandon Yeo (Intern, National University of Singapore)
